@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ExerciseDAO {
+    //static java.sql.Timestamp date = new java.sql.Timestamp(new java.util.Date().getTime());
 
     private User currentUser;
 
@@ -35,7 +36,7 @@ public class ExerciseDAO {
         UserDao.updateInDb(updateUserPoints);
     }
 
-    public void save(Exercise exercise) {
+    public static void save(Exercise exercise) {
 
         if (exercise.getId() == 0) {
             addToDb(exercise);
@@ -47,7 +48,7 @@ public class ExerciseDAO {
     /**
      * Dodaje nowe zadanie
      **/
-    public void addToDb(Exercise exercise) {
+    public static void addToDb(Exercise exercise) {
 
         String query = "insert into exercise values (null,?,?,null,0,0,?,?,?);";        // TODO: 09.08.19 special id zrobić
 
@@ -57,7 +58,7 @@ public class ExerciseDAO {
         // params[2] = String.valueOf(exercise.getSpecial());
         //params[3] = String.valueOf(exercise.getSpecial_id());
         params[2] = String.valueOf(exercise.getExe_points());
-        params[3] = String.valueOf(getCurrentUser().getId());
+        params[3] = String.valueOf(User.getCurrentUser().getId());
         params[4] = String.valueOf(exercise.getGoal().getId());
 
         int newId = DbServicePFP.executeInsert(query, params);
@@ -142,6 +143,20 @@ public class ExerciseDAO {
             exercisesList.add(exercise);
         }
         return exercisesList;
+    }
+
+    public static Exercise createExercise(String description, String points, String goalId){
+
+        java.sql.Timestamp date = new java.sql.Timestamp(new java.util.Date().getTime());
+
+        Exercise newExercise = new Exercise();
+        newExercise.setDescription(description);
+        newExercise.setCreated(date);
+        newExercise.setExe_points(Integer.valueOf(points));
+        newExercise.setUser(User.getCurrentUser());
+        newExercise.setGoal(GoalsDAO.getById(Integer.valueOf(goalId)));
+
+        return newExercise;
     }
 
 

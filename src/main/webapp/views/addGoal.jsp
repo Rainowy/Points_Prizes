@@ -12,6 +12,18 @@
 </head>
 <body>
 
+<%String flag = request.getParameter("fromExercise");
+String flag2 ="";
+if(flag != null && !flag.isEmpty()){
+   flag2 =flag;
+}
+
+%>
+
+<%--<%=flag%>--%>
+
+<%--${param.fromExercise}--%>
+
 
 <div class="form-style-2">
     <div class="form-style-2-heading">Dodaj nowy cel</div>
@@ -21,6 +33,7 @@
         <label for="field5"><span>Opis celu<span class="required">*</span></span><textarea name="field5" class="textarea-field" id="field5" minlength="30"></textarea></label>
 
         <label><span> </span><input type="submit" value="Submit" /></label>
+        <input type="hidden"  name="fromExercise" value=<%=flag2%>>
     </form>
 </div>
 <p><a href="/LoginServlet"><button>Powrót</button>   </a></p>

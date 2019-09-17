@@ -7,16 +7,21 @@ import pl.pointsprizes.services.DbServicePFP;
 
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 
 public class GoalsDAO {
-    static java.sql.Timestamp date = new java.sql.Timestamp(new java.util.Date().getTime());
+    //static java.sql.Timestamp date = new java.sql.Timestamp(new java.util.Date().getTime());
 
     public static int newGoalId;
 
     public static int getNewGoalId() {
         return newGoalId;
+    }
+
+    public static void setNewGoalId(int newGoalId) {
+        GoalsDAO.newGoalId = newGoalId;
     }
 
     public static void save(Goals goal) {
@@ -39,6 +44,7 @@ public class GoalsDAO {
 
 
         newGoalId = DbServicePFP.executeInsert(query, params);
+       // setNewGoalId(DbServicePFP.executeInsert(query, params));
         goal.setId(newGoalId);
 
         //return newId;   // zwraca ID nowego celu
@@ -49,6 +55,8 @@ public class GoalsDAO {
      */
     public static Goals createGoal(String name, String description) {
 
+        java.sql.Timestamp date = new java.sql.Timestamp(new java.util.Date().getTime());
+
         Goals newGoal = new Goals();
         newGoal.setName(name);
         newGoal.setDescription(description);
@@ -56,6 +64,7 @@ public class GoalsDAO {
 
         return newGoal;
     }
+
 
     public static void updateUser_Points_InDb(int inputPoints, int id) { // TODO: 09.08.19 przerobić na pełny update a nie tylko punkty
 
@@ -127,6 +136,21 @@ public class GoalsDAO {
         List<String[]> data = DbServicePFP.getData(query, params);
 
         return data;
+    }
+
+    public static int getAllUserPoints (User user) {
+        String query = "select sum(user_points) from goals where user_id=?";
+        String params[] = {String.valueOf(user.getId())};
+        List<String[]> data = DbServicePFP.getData(query, params);
+//      for(String[] s: data){
+//          System.out.println(Arrays.toString(s));
+//      }
+        if(data.get(0)[0] != null){
+                        String[] firstRow = data.get(0);
+            return Integer.valueOf(firstRow[0]);
+        }
+
+        return 0;
     }
 
     private static Goals getGoal(String[] firstRow) {

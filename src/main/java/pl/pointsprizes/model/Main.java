@@ -15,13 +15,13 @@ public class Main {
 //        } catch (SQLException e) {
 //            e.printStackTrace();
 //        }
-
-        try {
-            DbService.getConnection("prize_for_points");
-            System.out.println("Połączono");
-        } catch (SQLException e) {
-            e.printStackTrace();
-            System.out.println("nie");
-        }
+//
+//        try {
+//            DbService.getConnection("prize_for_points");
+//            System.out.println("Połączono");
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//            System.out.println("nie");
+//        }
     }
 }

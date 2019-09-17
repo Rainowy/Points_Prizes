@@ -10,13 +10,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2adca42f-c4a0-4efc-a867-bc1d68f0f4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/images/sw1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/DAO/ExerciseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/DAO/ExerciseDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/Entity/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/Entity/Exercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/model/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbServicePFP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbServicePFP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/DAO/ExerciseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/DAO/ExerciseDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/Entity/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/Entity/Exercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/model/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbServicePFP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbServicePFP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/css/addExercise.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/css/addExercise.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,67 +112,68 @@
     <session id="-2013030773">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="exercise" value="4" />
-          <entry key="goals" value="1" />
+          <entry key="css" value="2" />
+          <entry key="exercise" value="8" />
+          <entry key="goals" value="4" />
           <entry key="html" value="6" />
-          <entry key="java" value="47" />
-          <entry key="jsp" value="23" />
+          <entry key="java" value="63" />
+          <entry key="jsp" value="28" />
           <entry key="log" value="2" />
           <entry key="properties" value="1" />
-          <entry key="sql" value="5" />
-          <entry key="user" value="2" />
-          <entry key="xml" value="11" />
+          <entry key="sql" value="6" />
+          <entry key="user" value="3" />
+          <entry key="xml" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="Database Element" value="7" />
+          <entry key="CSS" value="2" />
+          <entry key="Database Element" value="15" />
           <entry key="HTML" value="6" />
-          <entry key="JAVA" value="47" />
-          <entry key="JSP" value="23" />
+          <entry key="JAVA" value="63" />
+          <entry key="JSP" value="28" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
-          <entry key="Scratch" value="5" />
-          <entry key="XML" value="11" />
+          <entry key="Scratch" value="6" />
+          <entry key="XML" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cell" value="37" />
-          <entry key="css" value="131" />
-          <entry key="dummy" value="33" />
+          <entry key="cell" value="40" />
+          <entry key="css" value="186" />
+          <entry key="dummy" value="61" />
           <entry key="html" value="196" />
-          <entry key="java" value="4223" />
-          <entry key="jsp" value="2034" />
+          <entry key="java" value="6338" />
+          <entry key="jsp" value="2667" />
           <entry key="log" value="1" />
           <entry key="properties" value="84" />
-          <entry key="sql" value="65" />
+          <entry key="sql" value="126" />
           <entry key="txt" value="32" />
-          <entry key="xml" value="573" />
+          <entry key="xml" value="574" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="131" />
+          <entry key="CSS" value="186" />
           <entry key="HTML" value="196" />
-          <entry key="JAVA" value="4223" />
-          <entry key="JSP" value="2034" />
-          <entry key="PLAIN_TEXT" value="66" />
+          <entry key="JAVA" value="6338" />
+          <entry key="JSP" value="2667" />
+          <entry key="PLAIN_TEXT" value="94" />
           <entry key="Properties" value="84" />
-          <entry key="Scratch" value="102" />
-          <entry key="XML" value="573" />
+          <entry key="Scratch" value="166" />
+          <entry key="XML" value="574" />
         </counts>
       </usages-collector>
     </session>
@@ -149,28 +181,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="18" selection-start-line="26" selection-end-line="29" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1584">
-              <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state relative-caret-position="837">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -178,44 +192,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="25" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Goals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -223,8 +201,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="2706">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -233,10 +211,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="38" column="86" lean-forward="true" selection-start-line="38" selection-start-column="86" selection-end-line="38" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="286">
+              <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/exercise">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/goals">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -260,6 +297,10 @@
       <find>session</find>
       <find>submit</find>
       <find>legend</find>
+      <find>create</find>
+      <find>createExercise</find>
+      <find>createGoal</find>
+      <find>date</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -279,14 +320,10 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/CheckoutPage.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/LoginSuccess.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbUtil.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/context.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Usergroup.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UsergroupDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UserDao.java" />
@@ -295,24 +332,28 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/login.html" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/EncodingFilter.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/LoginSuccess.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Goals.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/RequestLoggingFilter.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/Dispatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" />
       </list>
     </option>
   </component>
@@ -337,10 +378,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1135" />
-    <option name="y" value="265" />
-    <option name="width" value="1211" />
-    <option name="height" value="997" />
+    <option name="y" value="25" />
+    <option name="width" value="1206" />
+    <option name="height" value="1415" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -350,8 +390,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -529,7 +569,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568580547242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568726995567" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -537,6 +577,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15430711" />
     <property name="project.structure.side.proportion" value="0.35327965" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -568,7 +609,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JavaScript Debug.LoginSuccess.jsp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.pointsprizes.model.Main" />
       <module name="pl.pointsprizes" />
@@ -581,6 +622,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="LoginSuccess.jsp" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/views/LoginSuccess.jsp">
+      <method v="2" />
     </configuration>
     <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.13" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
@@ -657,9 +701,11 @@
     <list>
       <item itemvalue="Tomcat Server.Tomcat" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JavaScript Debug.LoginSuccess.jsp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.LoginSuccess.jsp" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -677,18 +723,19 @@
       <workItem from="1568224653877" duration="84046000" />
       <workItem from="1568436914187" duration="5169000" />
       <workItem from="1568469842953" duration="50107000" />
-      <workItem from="1568621364632" duration="1264000" />
+      <workItem from="1568621364632" duration="28209000" />
+      <workItem from="1568696091427" duration="18303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140586000" />
+    <option name="totallyTimeSpent" value="185834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="2560" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49012777" visible="true" weight="0.15274464" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49012777" visible="true" weight="0.124502786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -698,14 +745,14 @@
       <window_info id="Web" order="7" sideWeight="0.50987226" side_tool="true" weight="0.14709851" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32944834" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32840466" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29105058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21712062" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32969603" />
-      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3289166" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289166" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3291829" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32840466" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32840466" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.16575876" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32944834" />
@@ -717,10 +764,44 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.1997301" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.13086714" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49012777" weight="0.31604537" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50987226" side_tool="true" weight="0.14709851" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32944834" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29494163" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3291829" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3289166" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32840466" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.16575876" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32944834" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32944834" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.17666127" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -815,16 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Usergroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -836,30 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -888,13 +935,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="34" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -912,13 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -933,94 +972,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/goals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/Dispatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="168" selection-start-line="168" selection-end-line="177" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/exercise">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="18" selection-start-line="26" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1031,27 +986,175 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="829">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="550">
+          <caret line="25" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbServicePFP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="99" column="39" selection-start-line="99" selection-start-column="39" selection-end-line="99" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/ExerciseDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2706">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/exercise">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/GoalsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="43" column="97" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="38" column="86" lean-forward="true" selection-start-line="38" selection-start-column="86" selection-end-line="38" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/goals">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>

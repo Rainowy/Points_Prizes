@@ -3,6 +3,7 @@
 <%@ page import="pl.pointsprizes.model.Entity.Exercise" %>
 <%@ page import="pl.pointsprizes.model.DAO.UserDao" %>
 <%@ page import="pl.pointsprizes.model.Entity.User" %>
+<%@ page import="pl.pointsprizes.model.DAO.GoalsDAO" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
@@ -44,10 +45,19 @@ User = <%=user%>
 
 <%--Model--%>
 <%
-    User currentUser = UserDao.getById(User.getCurrentUser().getId());
-    int currentUserPoints = currentUser.getUser_points();
+    if (session.getAttribute("allGoals") == null) {
+        session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
+    }
+    /** Pobiera wszystkie puntky użytkownika z tabeli Goals, sumuje je i sprawdza czy się zgadzają z punktami z tabeli User, jeśli nie to je wyrównuje */
+    int allUserPointsFromGoals = GoalsDAO.getAllUserPoints(User.getCurrentUser());
+    //System.out.println(allUserPointsFromGoals);
+    if(User.getCurrentUser().getUser_points() != allUserPointsFromGoals){
+        User currentUser = User.getCurrentUser();
+        currentUser.setUser_points(allUserPointsFromGoals);
+        UserDao.updateInDb(currentUser);
+    }
 %>
-<h1>Liczba Twoich Punktów to <%=currentUserPoints%>
+<h1>Liczba Twoich Punktów to <%=allUserPointsFromGoals%>
 </h1>
 
 <h2>Lista z wykonanymi zadaniami</h2>
@@ -74,8 +84,8 @@ User = <%=user%>
 </a></p>
 
 <p><a href="addGoal.jsp">
-        <button>Dodaj nowy cel</button>
-    </a></p>
+    <button>Dodaj nowy cel</button>
+</a></p>
 
 
 <a href="CheckoutPage.jsp">Checkout Page</a>

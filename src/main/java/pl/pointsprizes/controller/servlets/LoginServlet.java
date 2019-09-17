@@ -17,7 +17,6 @@ public class LoginServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-
         response.setContentType("text/html;charset=UTF-8");
 
         String user = request.getParameter("user");

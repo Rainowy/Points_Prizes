@@ -16,14 +16,7 @@
 <body>
 <h2>Lista Twoich celów</h2>
 
-<%
-
-    if (session.getAttribute("allGoals") == null) {
-        //List<Exercise> allExercises = ExerciseDAO.getAllExercises();
-        session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
-    }
-    List<Goals> allGoals = (List) session.getAttribute("allGoals");
-%>
+<%List<Goals> allGoals = (List) session.getAttribute("allGoals");%>
 c:<c:forEach var="goal" items="<%=allGoals%>">
     *
     <li>${goal.getName()} ${goal.getDescription()} ${goal.getCreated()}</li>

@@ -139,7 +139,8 @@ form {
 }
 .form-style-5 .number {
     background: #1abc9c;
-    color: #fff;
+    color: #466966;
+    /*color: #fff; taki był default */
     height: 30px;
     width: 30px;
     display: inline-block;
@@ -155,6 +156,7 @@ form {
 .form-style-5 input[type="button"]
 {
     position: relative;
+    /*left: 300px;*/
     display: block;
     padding: 19px 39px 18px 39px;
     color: #FFF;

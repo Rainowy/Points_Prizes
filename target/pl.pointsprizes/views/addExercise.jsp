@@ -17,22 +17,22 @@
 <body>
 
 <div class="form-style-5">
-    <form>
+    <form action="/addExercise" method="post">
         <fieldset>
             <legend><span class="number">1</span>Dodaj Zadanie</legend>
-            <input type="text" name="field1" placeholder="Nazwa zadania *">
-            <input type="number" name="field2" placeholder="Ilość punktów *">
+            <input type="text" name="exeDesc" placeholder="Opis zadania *" required>
+            <input type="number" name="exePoints" placeholder="Ilość punktów *" min="1" max="5" required>
         </fieldset>
         <fieldset>
             <legend><span class="number">2</span>Wybierz Cel do dodania punktów</legend>
             <%--<label for="job">Cele:</label>--%>
-            <select id="job" name="field4">
+            <select id="job" name="exeGoal">
 
                 <%
                     List<Goals> allGoals = (List) session.getAttribute("allGoals");
                 %>
                 c:<c:forEach var="goal" items="<%=allGoals%>">
-                <option value="fishkeeping">${goal.getName()}</option>
+                <option value=${goal.getId()}>${goal.getName()}</option>
                 <%--<li>${goal.getName()} ${goal.getDescription()} ${goal.getCreated()}--%>
                 <%--</li>--%>
             </c:forEach>
@@ -44,7 +44,7 @@
             <legend><span class="number">3</span>Zaznacz by dodać nowy cel</legend>
         <div class="container">
             <div class="round">
-                <input type="checkbox" id="checkbox" />
+                <input type="checkbox" id="checkbox" name="newGoal" value="true" />
                 <label for="checkbox"></label>
             </div>
         </div>

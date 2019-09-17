@@ -13,20 +13,20 @@ public class DbServicePFP {
 
     public static void createDB(){
 
-        try {
+       // try {
             DbService.executeQuery(createDB,null,"");
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
     }
 
     public static void executeQuery(String query, String[] params) {
 
-        try {
+//        try {
             DbService.executeQuery(query, params, dbName);
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
     }
 
     public static int executeInsert(String query, String[] params) {
@@ -42,15 +42,15 @@ public class DbServicePFP {
 
     public static List<String[]> getData(String query, String[] params) {
 
-        List<String[]> data = new ArrayList<>();
+        //List<String[]> data = new ArrayList<>();
 
-        try {
-            data = DbService.getData(query, params, dbName);
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            data =
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }
 
-        return data;
+        return DbService.getData(query, params, dbName);
     }
 
 }

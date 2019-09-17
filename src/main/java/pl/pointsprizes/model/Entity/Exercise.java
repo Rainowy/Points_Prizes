@@ -14,6 +14,15 @@ public class Exercise {
     private User user;
     private Goals goal;
     public User currentUser;
+    public static Exercise temp;
+
+    public static Exercise getTemp() {
+        return temp;
+    }
+
+    public static void setTemp(Exercise tmp) {
+       temp = tmp;
+    }
 
     public int getId() {
         return id;
