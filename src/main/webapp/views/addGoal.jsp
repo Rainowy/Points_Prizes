@@ -36,7 +36,7 @@ if(flag != null && !flag.isEmpty()){
         <input type="hidden"  name="fromExercise" value=<%=flag2%>>
     </form>
 </div>
-<p><a href="/LoginServlet"><button>Powrót</button>   </a></p>
+<p><a href="/LoginSuccess"><button>Powrót</button>   </a></p>
 
 <form action="/LogoutServlet" method="post">
     <input type="submit" value="Wylogowanie">

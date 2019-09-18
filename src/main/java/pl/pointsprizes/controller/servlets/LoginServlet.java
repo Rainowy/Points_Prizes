@@ -22,6 +22,7 @@ public class LoginServlet extends HttpServlet {
         String user = request.getParameter("user");
         String pwd = request.getParameter("pwd");
 
+
         User login = UserDao.getByPassword(pwd);    /** Model */
 
         if (user.equals(userID) && pwd.equals(password)) {
@@ -34,14 +35,15 @@ public class LoginServlet extends HttpServlet {
 
             setSessionAndCookie(request, response, user);
 
-            response.sendRedirect("/views/LoginSuccess.jsp"); /** standard według wzoru , bez plików w WEB-INF **/
+//            response.sendRedirect("/views/LoginSuccess.jsp"); /** standard według wzoru , bez plików w WEB-INF **/
+            response.sendRedirect("/LoginSuccess"); /** standard według wzoru , bez plików w WEB-INF **/
 
 //request.getRequestDispatcher("/WEB-INF/views/LoginSuccess.jsp").include(request,response); /** Przekierowuje do WEB-INF dispatcherem
             // response.sendRedirect("/LoginSuccess.jsp");
 //            response.sendRedirect("/Dispatch?dispatch=LoginSuccess");  /**Dodatkowy servlet przekierowujący do jsp w WEB-INF w celach bezpieczeństwa */
 
         } else {
-            RequestDispatcher rd = getServletContext().getRequestDispatcher("/login.html");
+            RequestDispatcher rd = getServletContext().getRequestDispatcher("/views/loginBAKU.html");
             PrintWriter out = response.getWriter();
             out.println("<h2><font color=red>Nazwa użytkownika lub hasło niepoprawne</h2>");
             rd.include(request, response);
@@ -60,6 +62,6 @@ public class LoginServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.sendRedirect("views/LoginSuccess.jsp");
+        response.sendRedirect("/LoginSuccess");
     }
 }

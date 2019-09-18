@@ -10259,3 +10259,1409 @@
 15:29:33,819  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
 15:29:39,263  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
 15:29:39,275  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+17:08:31,063  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+17:08:31,063  INFO AuthenticationFilter:36 - Unauthorized access request
+17:08:31,078  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+17:08:35,246  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+17:08:35,270  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+17:08:42,310  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+17:08:42,334  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+17:08:43,934  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+17:08:43,945  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+17:08:48,298  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+17:08:48,322  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+17:08:51,125  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+17:08:51,153  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+17:08:51,201  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw1.jpg
+17:09:09,118  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+17:09:09,171  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+17:09:43,134  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+17:09:57,297  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+17:09:57,306  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+17:09:58,937  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+17:10:01,743  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+18:17:36,488  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+18:17:36,489  INFO AuthenticationFilter:36 - Unauthorized access request
+18:17:36,501  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+18:17:40,771  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+18:17:40,795  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+18:17:51,642  INFO AuthenticationFilter:31 - Requested Resource::/views/CheckoutPage.jsp
+18:25:29,015  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+18:25:32,996  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+10:16:42,334  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:16:42,336  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:16:43,498  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:16:43,499  INFO AuthenticationFilter:36 - Unauthorized access request
+10:16:43,502  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+10:16:45,540  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:16:45,540  INFO AuthenticationFilter:36 - Unauthorized access request
+10:16:45,548  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+10:16:45,635  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:16:45,635  INFO AuthenticationFilter:36 - Unauthorized access request
+10:16:46,679  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:16:46,809  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:16:46,809  INFO AuthenticationFilter:36 - Unauthorized access request
+10:16:47,888  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:16:47,888  INFO AuthenticationFilter:36 - Unauthorized access request
+10:16:50,205  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:16:50,435  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+10:16:51,134  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:46:48,714  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:46:48,717  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:46:51,396  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:46:51,397  INFO AuthenticationFilter:36 - Unauthorized access request
+10:46:51,400  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+10:46:54,750  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:46:57,157  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:46:57,331  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+11:00:22,933  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:00:22,935  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:00:54,583  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:00:57,844  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:00:58,027  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+11:01:34,582  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:01:34,584  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:01:38,263  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:01:42,751  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:01:42,922  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+11:06:52,665  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:06:52,667  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:07:04,742  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:07:06,336  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:07:06,526  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+11:49:36,076  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:49:36,077  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:49:51,168  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:49:53,131  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:49:53,387  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:50:12,242  INFO AuthenticationFilter:31 - Requested Resource::/addExercise.jsp
+11:50:25,236  INFO AuthenticationFilter:31 - Requested Resource::/showGoals.jsp
+11:50:27,594  INFO AuthenticationFilter:31 - Requested Resource::/addGoal.jsp
+11:50:30,106  INFO AuthenticationFilter:31 - Requested Resource::/Dispatch
+11:50:31,965  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:50:31,979  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+11:50:37,231  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:50:37,249  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:52:27,677  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:52:27,683  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+11:52:31,153  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:52:31,171  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:52:34,553  INFO AuthenticationFilter:31 - Requested Resource::/addExercise.jsp
+11:53:05,344  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:53:05,346  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:53:09,154  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:53:09,154  INFO AuthenticationFilter:36 - Unauthorized access request
+11:53:09,160  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+11:53:10,213  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:53:12,127  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:53:14,910  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:53:14,943  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:53:16,952  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:53:17,059  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+11:53:17,114  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw1.jpg
+11:53:29,530  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:53:36,125  INFO AuthenticationFilter:31 - Requested Resource::/showGoals.jsp
+11:53:38,870  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:54:53,646  INFO AuthenticationFilter:31 - Requested Resource::/showGoals.jsp
+11:59:12,510  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:59:12,512  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:59:14,856  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:59:17,675  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:59:17,838  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:59:21,049  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:59:24,116  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:59:25,960  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+11:59:27,677  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:59:41,216  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+11:59:43,323  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:59:43,338  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:59:46,389  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:59:48,529  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:00:02,095  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:00:20,338  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:00:20,417  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:00:45,843  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:00:50,874  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:00:50,886  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:00:55,560  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:01:01,052  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:10,475  INFO AuthenticationFilter:31 - Requested Resource::/views/CheckoutPage.jsp
+12:01:29,755  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:31,135  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:38,800  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:42,540  INFO AuthenticationFilter:31 - Requested Resource::/views/CheckoutPage.jsp
+12:01:45,618  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:46,867  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:01:48,103  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:49,402  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:49,950  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:50,134  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:01:50,345  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:32,914  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:39,427  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:02:40,808  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:42,072  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:02:44,562  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:44,722  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:44,899  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,069  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,236  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,391  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,548  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,714  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:45,893  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:02:46,052  INFO AuthenticationFilter:31 - Requested Resource::/views/LoginSuccess.jsp
+12:04:06,456  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:04:06,457  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:04:09,432  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:04:09,432  INFO AuthenticationFilter:36 - Unauthorized access request
+12:04:09,437  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:04:10,718  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:04:14,508  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:04:14,759  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:04:17,829  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:04:19,156  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:04:21,373  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:04:27,884  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:04:32,111  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:04:35,583  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:04:40,217  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:04:41,850  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:04:45,310  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:05:07,873  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:05:07,887  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:05:09,229  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:05:12,360  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:05:12,383  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:05:48,717  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:05:48,733  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:05:54,320  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:05:54,346  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:24:01,403  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:24:01,405  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:24:09,824  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:24:09,824  INFO AuthenticationFilter:36 - Unauthorized access request
+12:24:09,829  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:24:10,821  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:24:14,740  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:24:14,914  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:24:18,152  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:24:36,607  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:25:14,605  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:25:16,776  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:25:24,564  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:25:37,980  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:25:38,059  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:25:50,553  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:26:01,179  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:26:03,916  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:26:09,867  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:26:13,805  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:26:15,502  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:27:23,532  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:27:26,134  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:27:31,604  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:27:32,840  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:19,004  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:30:19,006  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:30:25,079  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:25,079  INFO AuthenticationFilter:36 - Unauthorized access request
+12:30:25,980  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:30:29,642  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:30:29,923  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:31:29,842  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:31:29,843  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:31:38,777  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:31:40,756  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:31:40,958  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:31:46,999  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:31:48,911  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:17,555  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:34:17,557  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:34:23,454  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:23,454  INFO AuthenticationFilter:36 - Unauthorized access request
+12:34:24,662  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:34:28,695  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:34:28,849  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:31,672  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:38:07,873  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:38:07,890  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:38:10,392  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:38:10,403  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:38:11,570  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:38:14,691  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:38:14,715  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:38:24,828  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:38:24,831  INFO AuthenticationFilter:36 - Unauthorized access request
+12:38:24,847  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:46,145  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:49:46,146  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:49:48,910  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:48,925  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:48,926  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:48,948  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:49:50,192  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:50,225  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:50,226  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:50,261  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:49:57,237  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:57,276  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:57,276  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:57,313  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:49:58,040  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:58,078  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:58,079  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:58,113  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:49:58,771  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:58,802  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:58,803  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:58,839  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:49:59,457  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:49:59,490  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:49:59,490  INFO AuthenticationFilter:36 - Unauthorized access request
+12:49:59,528  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:22,428  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:22,457  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:22,457  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:22,521  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:22,924  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:22,954  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:22,955  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:23,033  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:23,079  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:23,086  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:23,086  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:23,111  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:24,902  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:24,933  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:24,933  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:24,966  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:25,080  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:25,123  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:25,124  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:25,179  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:31,002  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:50:31,003  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:50:39,490  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:50:42,022  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:42,058  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:42,058  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:42,090  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:42,768  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:42,796  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:42,796  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:42,830  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:42,935  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:42,948  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:42,948  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:42,983  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:43,103  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:50:43,129  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:50:43,129  INFO AuthenticationFilter:36 - Unauthorized access request
+12:50:43,176  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:50:46,295  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:50:46,480  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:50:49,837  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:50:49,848  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:51:50,878  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:51:50,879  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:51:52,841  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:51:53,958  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:51:56,299  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:51:56,299  INFO AuthenticationFilter:36 - Unauthorized access request
+12:51:56,311  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:51:57,499  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:51:59,505  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:51:59,954  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:52:02,681  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:52:02,831  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:52:06,700  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:52:07,424  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:53:08,385  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:53:08,405  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:53:08,462  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+12:53:28,820  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:53:52,170  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:53:52,195  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:53:52,974  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:54:22,544  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:55:21,588  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:55:21,589  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:56:09,249  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:56:09,250  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:56:11,378  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:11,387  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:11,388  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:11,441  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:13,621  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:13,653  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:13,653  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:13,690  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:14,602  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:14,637  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:14,637  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:14,672  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:15,573  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:15,603  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:15,605  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:15,643  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:15,826  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:15,862  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:15,862  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:15,950  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,074  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:16,113  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:16,114  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:16,202  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,252  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:16,263  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:16,263  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:16,286  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,433  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:16,457  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:16,457  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:16,511  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,629  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:16,648  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:16,649  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:16,690  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,798  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:16,806  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:16,807  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:16,848  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:16,991  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:17,029  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:17,029  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:17,121  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:17,340  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:17,371  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:17,371  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:17,471  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:18,948  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:18,989  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:18,990  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:19,056  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:19,360  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:19,389  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:19,389  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:19,458  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:19,731  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:19,784  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:19,784  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:19,889  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:20,089  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:20,133  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:20,133  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:20,226  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:20,424  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:20,447  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:20,448  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:20,549  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:20,912  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:20,936  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:20,936  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:20,985  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:24,555  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:24,589  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:24,589  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:24,620  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:24,824  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:24,864  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:24,864  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:24,905  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:24,987  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:24,994  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:24,994  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:25,021  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:25,147  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:25,157  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:56:25,157  INFO AuthenticationFilter:36 - Unauthorized access request
+12:56:25,197  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:56:59,460  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:56:59,461  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:57:01,499  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:01,510  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:01,510  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:01,536  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:02,246  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:02,286  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:02,286  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:02,327  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:02,423  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:02,466  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:02,466  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:02,548  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:04,953  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:04,987  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:04,990  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:05,058  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:05,117  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:05,135  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:05,135  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:05,165  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:05,317  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:05,355  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:05,355  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:05,445  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:05,667  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:05,707  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:05,708  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:05,792  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:06,001  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:06,045  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:06,045  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:06,127  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:06,343  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:06,381  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:06,382  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:06,465  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:06,676  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:06,729  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:06,729  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:06,826  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:06,984  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:06,995  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:06,995  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:07,031  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:07,149  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:07,163  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:07,163  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:07,212  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:07,346  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:07,368  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:07,369  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:07,412  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:07,616  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:07,641  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:07,641  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:07,717  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:07,933  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:07,971  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:07,971  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:08,061  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:08,263  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:08,314  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:08,315  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:08,425  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:08,568  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:08,578  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:08,579  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:08,601  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:08,738  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:08,754  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:08,870  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:08,875  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:08,926  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:08,947  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:08,947  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:08,974  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:09,065  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:09,073  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:09,073  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:09,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:09,220  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:09,270  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:09,270  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:09,347  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:09,922  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:57:11,793  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:11,826  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:11,826  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:11,856  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:11,958  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:11,966  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:11,966  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:11,988  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:12,133  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:12,150  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:12,150  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:12,208  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:12,306  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:12,319  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:12,320  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:12,349  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:12,479  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:12,487  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:12,487  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:12,510  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:12,648  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:12,655  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:12,655  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:12,682  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:15,570  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:15,610  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:15,610  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:15,636  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:57:30,365  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:57:30,509  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:57:30,509  INFO AuthenticationFilter:36 - Unauthorized access request
+12:57:30,527  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:12,829  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:58:12,861  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:12,861  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:12,887  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:15,434  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:15,471  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:15,471  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:15,504  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:15,607  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:15,626  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:15,626  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:15,656  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:15,805  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:15,838  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:15,838  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:15,920  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:16,150  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:16,185  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:16,185  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:16,258  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:16,316  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:16,328  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:16,328  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:16,350  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:16,533  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:16,571  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:16,572  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:16,636  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:16,718  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:16,730  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:16,730  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:16,753  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:16,899  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:16,940  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:16,940  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:17,017  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:33,065  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:33,497  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:33,771  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:33,962  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:34,139  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:34,340  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+12:58:38,048  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:38,081  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:38,081  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:38,117  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:38,365  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:38,401  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:38,402  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:38,472  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:38,693  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:58:38,733  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:38,734  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:38,812  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:58:53,554  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:58:53,555  INFO AuthenticationFilter:36 - Unauthorized access request
+12:58:53,618  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:59:15,986  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:59:15,987  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:59:17,416  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:59:17,428  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:59:17,428  INFO AuthenticationFilter:36 - Unauthorized access request
+12:59:17,454  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:59:18,336  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:59:18,369  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:59:18,370  INFO AuthenticationFilter:36 - Unauthorized access request
+12:59:18,440  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:59:32,814  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:59:35,767  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:59:35,801  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:59:35,801  INFO AuthenticationFilter:36 - Unauthorized access request
+12:59:35,846  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:59:36,247  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:59:36,282  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:59:36,282  INFO AuthenticationFilter:36 - Unauthorized access request
+12:59:36,366  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+12:59:36,632  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:59:36,675  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+12:59:36,675  INFO AuthenticationFilter:36 - Unauthorized access request
+12:59:36,757  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:14,591  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:00:14,601  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:00:14,601  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:14,658  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:34,970  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:00:35,010  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:00:35,010  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:35,068  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:35,117  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:35,117  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:35,119  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:00:41,398  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:00:41,400  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:00:42,910  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:00:42,925  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:00:42,925  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:42,954  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:42,997  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:42,997  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:43,004  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:00:44,016  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:00:44,050  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:00:44,051  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:44,083  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:44,120  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:44,120  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:44,122  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:00:44,915  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:00:44,946  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:00:44,947  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:44,981  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:00:45,019  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:45,019  INFO AuthenticationFilter:36 - Unauthorized access request
+13:00:45,021  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:01:07,255  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:07,271  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:01:07,271  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:07,290  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:01:07,328  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:07,328  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:07,331  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:01:09,478  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:09,479  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:14,113  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:14,113  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:19,085  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:19,110  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:01:19,111  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:19,170  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:01:19,216  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:19,216  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:23,561  INFO AuthenticationFilter:31 - Requested Resource::/
+13:01:23,561  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:23,625  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:23,625  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:29,644  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:01:29,645  INFO AuthenticationFilter:36 - Unauthorized access request
+13:01:29,705  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:01:29,752  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:29,752  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:08,869  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:02:08,871  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:02:12,182  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:02:12,183  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:02:13,315  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:13,326  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:13,327  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:13,375  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:13,435  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:13,436  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:13,438  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:14,174  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:14,207  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:14,207  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:14,240  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:14,273  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:14,273  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:14,275  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:15,074  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:15,109  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:15,110  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,182  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:15,233  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:15,233  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,235  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:15,243  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:15,253  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:15,253  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,275  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:15,321  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:15,321  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,323  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:15,676  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:15,711  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:15,712  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,783  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:15,844  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:15,845  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:15,849  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:16,013  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:16,050  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:16,050  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:16,149  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:16,190  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:16,190  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:16,192  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:22,527  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:22,528  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:24,413  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:24,413  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:34,536  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:34,536  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:34,539  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:35,469  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:35,470  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:41,257  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:41,284  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:41,285  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:41,313  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:41,358  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:41,358  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:41,360  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:02:47,415  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:47,451  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:02:47,452  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:47,515  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:02:47,563  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:02:47,563  INFO AuthenticationFilter:36 - Unauthorized access request
+13:02:47,565  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:04:10,729  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:04:10,749  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:04:10,749  INFO AuthenticationFilter:36 - Unauthorized access request
+13:04:10,811  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:04:10,870  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:04:10,870  INFO AuthenticationFilter:36 - Unauthorized access request
+13:05:16,589  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:05:16,599  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:05:16,599  INFO AuthenticationFilter:36 - Unauthorized access request
+13:05:16,622  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:05:16,666  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:05:16,666  INFO AuthenticationFilter:36 - Unauthorized access request
+13:05:16,671  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:24,212  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:08:24,214  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:08:26,290  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:26,290  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:27,468  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:27,468  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:28,730  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:28,730  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:29,828  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:29,864  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:29,865  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:29,895  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:29,935  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:29,935  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:29,936  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:30,776  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:30,814  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:30,815  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:30,843  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:30,886  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:30,886  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:30,888  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:31,744  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:31,776  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:31,776  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:31,807  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:31,849  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:31,850  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:31,852  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:31,925  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:31,973  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:31,973  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,021  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:32,066  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:32,066  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,068  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,086  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:32,097  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,124  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:32,167  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:32,167  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,169  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,675  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,709  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:32,710  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,750  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:32,783  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:32,783  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,800  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,871  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:32,893  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:32,893  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:32,949  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:32,999  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:32,999  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:33,002  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:33,091  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:33,137  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:33,138  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:33,191  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:33,242  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:33,242  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:33,248  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:33,274  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:33,290  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:33,290  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:33,309  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:33,342  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:33,342  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:33,349  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:36,439  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:36,458  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:36,458  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:36,518  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:36,610  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:36,610  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:46,600  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:46,635  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:46,635  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:46,666  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:46,704  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:46,704  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:46,707  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:49,159  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:08:49,183  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:08:49,183  INFO AuthenticationFilter:36 - Unauthorized access request
+13:08:49,234  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:08:49,293  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:08:49,293  INFO AuthenticationFilter:36 - Unauthorized access request
+13:09:06,587  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:09:06,687  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:09:06,687  INFO AuthenticationFilter:36 - Unauthorized access request
+13:09:06,690  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:09:08,263  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:09:08,263  INFO AuthenticationFilter:36 - Unauthorized access request
+13:09:09,213  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:09:09,247  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:09:09,247  INFO AuthenticationFilter:36 - Unauthorized access request
+13:09:09,282  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:09:09,326  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:09:09,326  INFO AuthenticationFilter:36 - Unauthorized access request
+13:09:09,330  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:30,606  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:10:30,607  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:10:31,298  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:31,312  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:10:31,312  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:31,369  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:10:31,427  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:10:31,427  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:31,432  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:33,866  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:33,884  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:10:33,884  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:33,981  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:10:34,052  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:10:34,052  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:34,059  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:35,796  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:35,824  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:10:35,824  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:35,863  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:10:35,897  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:10:35,897  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:35,899  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:38,043  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:10:38,073  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:10:38,073  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:38,141  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:10:38,220  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:10:38,220  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:48,629  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:10:48,651  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:10:48,651  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:48,657  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:10:49,197  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:10:49,197  INFO AuthenticationFilter:36 - Unauthorized access request
+13:10:49,200  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:11:30,418  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:11:30,442  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:11:30,442  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:30,506  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:11:30,557  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:30,557  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:30,559  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:11:31,544  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:11:31,577  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:11:31,578  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:31,616  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:11:31,664  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:31,664  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:31,666  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:11:33,982  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:11:34,020  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:11:34,021  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:34,070  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:11:34,107  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:34,107  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:34,116  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:11:40,876  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:11:40,908  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:11:40,908  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:40,974  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:11:41,025  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:41,026  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:41,031  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:11:42,127  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:42,127  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:43,038  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:11:43,130  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:43,130  INFO AuthenticationFilter:36 - Unauthorized access request
+13:11:44,847  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:44,847  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:18,800  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:13:18,802  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:13:24,351  INFO AuthenticationFilter:31 - Requested Resource::/viewBooks
+13:13:24,351  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:24,354  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:13:24,362  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:13:24,362  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:24,364  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:13:31,814  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:13:31,815  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:31,945  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:13:31,946  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:44,044  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:13:44,045  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:44,072  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:13:44,072  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:44,124  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:13:44,173  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:13:44,173  INFO AuthenticationFilter:36 - Unauthorized access request
+13:13:44,175  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:14:03,079  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:14:03,079  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:03,096  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:14:03,104  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:14:03,104  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:03,174  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:14:03,229  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:14:03,229  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:15,773  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:14:15,773  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:15,819  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:14:15,819  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:15,889  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:14:15,952  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:14:15,952  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:15,960  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:14:25,439  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:14:25,440  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:25,481  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:14:25,481  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:25,573  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:14:25,666  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:14:25,666  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:56,904  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:14:57,038  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:14:57,038  INFO AuthenticationFilter:36 - Unauthorized access request
+13:14:57,040  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:14:58,281  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:14:58,281  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:12,270  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:15:12,270  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:12,325  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:15:12,373  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:15:12,373  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:20,762  INFO AuthenticationFilter:31 - Requested Resource::/viewBooks
+13:15:20,763  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:20,788  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:15:20,788  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:20,791  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:15:39,708  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:15:39,708  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:39,848  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:15:39,848  INFO AuthenticationFilter:36 - Unauthorized access request
+13:15:55,576  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:15:55,578  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:16:00,789  INFO AuthenticationFilter:31 - Requested Resource::/views/editBook.jsp
+13:16:00,789  INFO AuthenticationFilter:36 - Unauthorized access request
+13:16:00,805  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:16:00,805  INFO AuthenticationFilter:36 - Unauthorized access request
+13:16:00,854  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:16:00,905  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:16:00,905  INFO AuthenticationFilter:36 - Unauthorized access request
+13:16:00,908  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:01,765  INFO AuthenticationFilter:31 - Requested Resource::/editBook.jsp
+13:18:01,766  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:01,773  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:01,787  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:18:01,788  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:01,840  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:18:01,887  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:01,887  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:21,137  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:18:21,139  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:18:23,598  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:18:23,715  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:23,716  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:34,278  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:34,278  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:37,005  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:37,048  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:18:37,048  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:37,079  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:18:37,119  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:37,119  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:37,122  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:37,758  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:37,792  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:18:37,794  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:37,843  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:18:37,884  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:37,884  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:37,888  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:18:38,536  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:18:38,711  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:18:38,711  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:38,733  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:18:38,770  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:38,770  INFO AuthenticationFilter:36 - Unauthorized access request
+13:18:42,144  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:18:42,145  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:39,090  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:39,113  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:20:39,113  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:39,170  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:20:39,220  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:20:39,220  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:39,222  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:40,765  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:40,799  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:20:40,800  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:40,837  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:20:40,879  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:20:40,879  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:40,881  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:41,398  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:41,434  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:20:41,434  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:41,470  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:20:41,510  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:20:41,511  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:41,513  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:20:42,362  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:20:42,402  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:20:42,402  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:42,439  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:20:42,475  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:20:42,475  INFO AuthenticationFilter:36 - Unauthorized access request
+13:20:45,891  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:20:45,892  INFO AuthenticationFilter:36 - Unauthorized access request
+13:29:15,478  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:29:15,480  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:29:20,954  INFO AuthenticationFilter:31 - Requested Resource::/editBook.jsp
+13:29:20,954  INFO AuthenticationFilter:36 - Unauthorized access request
+13:29:20,965  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:29:32,397  INFO AuthenticationFilter:31 - Requested Resource::/editBook.jsp
+13:29:32,397  INFO AuthenticationFilter:36 - Unauthorized access request
+13:29:32,408  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:32:02,462  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:32:02,464  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:34:47,199  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:34:47,200  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:35:37,326  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:08,637  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:36:08,638  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:36:11,055  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:11,068  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:11,069  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:11,094  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:13,362  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:13,395  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:13,396  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:13,434  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:16,733  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:16,758  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:16,758  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:16,790  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:43,115  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:36:43,117  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:36:43,938  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:43,951  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:43,951  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:44,009  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:45,599  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:45,630  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:45,630  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:45,663  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:46,613  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:46,659  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:46,659  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:46,697  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:47,461  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:47,495  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:47,496  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:47,532  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:48,065  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:48,107  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:48,108  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:48,141  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:48,532  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:48,565  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:48,565  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:48,611  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:52,051  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:52,078  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:52,079  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:52,104  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:36:54,100  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:36:54,134  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:36:54,134  INFO AuthenticationFilter:36 - Unauthorized access request
+13:36:54,166  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:37:27,927  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:37:27,928  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:37:29,418  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:37:29,428  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:37:29,429  INFO AuthenticationFilter:36 - Unauthorized access request
+13:37:29,477  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:37:44,174  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:37:44,206  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:37:44,206  INFO AuthenticationFilter:36 - Unauthorized access request
+13:37:44,269  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:38:25,022  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:38:25,051  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:38:25,051  INFO AuthenticationFilter:36 - Unauthorized access request
+13:38:25,123  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:38:57,945  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:38:57,956  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:38:57,957  INFO AuthenticationFilter:36 - Unauthorized access request
+13:38:58,010  INFO AuthenticationFilter:31 - Requested Resource::/views/css/views/login.html
+13:39:10,216  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:39:10,218  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:39:11,555  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:39:11,566  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:39:11,567  INFO AuthenticationFilter:36 - Unauthorized access request
+13:39:11,615  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:39:18,750  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:39:21,018  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:39:22,045  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:39:23,488  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:09,535  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:40:09,537  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:40:10,964  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:10,981  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:10,981  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:11,037  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:12,070  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:12,107  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:12,108  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:12,143  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:13,154  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:13,186  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:13,186  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:13,226  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:16,983  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:17,013  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:17,014  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:17,051  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:17,358  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:17,391  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:17,392  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:17,428  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:17,558  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:17,597  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:17,597  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:17,662  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:17,746  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:40:17,754  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:40:17,754  INFO AuthenticationFilter:36 - Unauthorized access request
+13:40:17,779  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:40:57,488  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:40:57,489  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:40:59,638  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:41:03,850  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:03,883  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:03,884  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:03,926  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:41:04,017  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:04,040  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:04,040  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:04,079  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:41:04,205  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:04,245  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:04,245  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:04,328  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:41:04,754  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:04,791  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:04,791  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:04,876  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:41:09,138  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:09,182  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:09,182  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:09,227  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:41:25,770  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:41:25,810  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:41:25,811  INFO AuthenticationFilter:36 - Unauthorized access request
+13:41:25,911  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:42:33,728  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:42:33,871  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:42:33,871  INFO AuthenticationFilter:36 - Unauthorized access request
+13:42:33,912  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:42:42,691  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:42:42,738  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:42:45,638  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:42:45,650  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:42:45,668  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:42:45,668  INFO AuthenticationFilter:36 - Unauthorized access request
+13:42:45,698  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:42:47,979  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:42:48,010  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:42:48,010  INFO AuthenticationFilter:36 - Unauthorized access request
+13:42:48,090  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:42:50,153  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:42:50,190  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:42:50,190  INFO AuthenticationFilter:36 - Unauthorized access request
+13:42:50,222  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:43:09,326  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:43:09,327  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:43:12,467  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:43:12,479  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:43:12,479  INFO AuthenticationFilter:36 - Unauthorized access request
+13:43:12,531  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:43:16,014  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:43:16,015  INFO AuthenticationFilter:36 - Unauthorized access request
+13:43:16,027  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:43:16,053  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:43:16,053  INFO AuthenticationFilter:36 - Unauthorized access request
+13:43:16,089  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:43:17,169  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:43:19,546  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:43:19,581  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:43:19,582  INFO AuthenticationFilter:36 - Unauthorized access request
+13:43:19,623  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:43:20,360  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:43:20,397  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:43:20,397  INFO AuthenticationFilter:36 - Unauthorized access request
+13:43:20,454  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:44:50,517  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:44:50,519  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:44:54,154  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:44:54,167  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:44:54,167  INFO AuthenticationFilter:36 - Unauthorized access request
+13:44:54,234  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:44:59,817  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:44:59,847  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:44:59,847  INFO AuthenticationFilter:36 - Unauthorized access request
+13:44:59,923  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:45:00,712  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:45:00,737  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:45:00,737  INFO AuthenticationFilter:36 - Unauthorized access request
+13:45:00,764  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:45:01,729  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:45:01,770  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:45:01,771  INFO AuthenticationFilter:36 - Unauthorized access request
+13:45:01,802  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:45:02,614  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:45:02,645  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:45:02,646  INFO AuthenticationFilter:36 - Unauthorized access request
+13:45:02,686  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:46:14,085  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:46:14,119  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:46:14,119  INFO AuthenticationFilter:36 - Unauthorized access request
+13:46:14,180  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:46:27,997  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:46:28,019  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:46:28,019  INFO AuthenticationFilter:36 - Unauthorized access request
+13:46:28,068  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:46:31,171  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:46:31,198  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:46:31,198  INFO AuthenticationFilter:36 - Unauthorized access request
+13:46:31,233  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:47:00,094  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:47:00,124  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:47:00,124  INFO AuthenticationFilter:36 - Unauthorized access request
+13:47:00,195  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:47:34,132  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:47:44,934  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:47:45,066  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:53,854  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:47:53,866  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:47:53,892  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:47:53,892  INFO AuthenticationFilter:36 - Unauthorized access request
+13:47:53,926  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:47:56,525  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:47:56,563  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:47:56,563  INFO AuthenticationFilter:36 - Unauthorized access request
+13:47:56,602  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:47:57,416  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:47:57,460  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:47:57,460  INFO AuthenticationFilter:36 - Unauthorized access request
+13:47:57,492  INFO AuthenticationFilter:31 - Requested Resource::/views/css/login.html
+13:50:10,788  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:50:10,790  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:50:35,510  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:50:35,522  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:35,522  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:35,548  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:36,312  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:50:36,349  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:36,349  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:39,128  INFO AuthenticationFilter:31 - Requested Resource::/JDBC/editBook.jsp
+13:50:39,129  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:39,140  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:39,170  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:39,170  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:41,199  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:41,233  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:41,234  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:41,844  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:41,876  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:41,876  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:42,490  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:42,524  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:42,524  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:42,665  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:42,679  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:42,679  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:42,862  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:42,904  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:42,904  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:43,760  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:43,790  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:43,791  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:50,400  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:50,456  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:50,456  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:51,027  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:51,070  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:51,070  INFO AuthenticationFilter:36 - Unauthorized access request
+13:50:51,230  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:50:51,246  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:50:51,246  INFO AuthenticationFilter:36 - Unauthorized access request
+13:51:11,286  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:51:11,288  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:51:14,747  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:51:14,758  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:51:14,758  INFO AuthenticationFilter:36 - Unauthorized access request
+13:51:29,464  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:51:29,471  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:51:29,471  INFO AuthenticationFilter:36 - Unauthorized access request
+13:52:19,269  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:52:19,270  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:52:22,185  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:52:27,355  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:52:31,419  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:53:01,151  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:53:01,152  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:53:02,460  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:53:02,477  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:53:02,478  INFO AuthenticationFilter:36 - Unauthorized access request
+13:53:02,498  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:53:12,118  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:53:12,130  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:53:12,130  INFO AuthenticationFilter:36 - Unauthorized access request
+13:53:21,247  INFO AuthenticationFilter:31 - Requested Resource::/login.html
+13:53:21,286  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+13:53:21,287  INFO AuthenticationFilter:36 - Unauthorized access request
+13:53:51,729  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:53:51,730  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:58:06,347  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:58:06,348  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:58:51,922  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:58:51,923  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:08:03,264  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:08:03,265  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:09:52,209  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:09:52,210  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:15:02,661  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:15:02,663  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:32:21,469  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:32:21,471  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:34:15,253  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:34:15,254  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:38:29,547  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:38:29,548  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:40:49,263  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:40:49,265  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:47:16,161  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:47:16,165  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:47:55,348  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:47:55,349  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:49:13,958  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:49:13,960  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:52:53,420  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:52:53,421  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized

@@ -16,13 +16,12 @@
 <body>
 <h2>Lista Twoich celów</h2>
 
-<%List<Goals> allGoals = (List) session.getAttribute("allGoals");%>
-c:<c:forEach var="goal" items="<%=allGoals%>">
+c:<c:forEach var="goal" items="${sessionScope.allGoals}">
     *
     <li>${goal.getName()} ${goal.getDescription()} ${goal.getCreated()}</li>
     * </c:forEach>
 
-<p><a href="LoginSuccess.jsp">
+<p><a href="/LoginSuccess">
     <button>Powrót</button>
 </a></p>
 

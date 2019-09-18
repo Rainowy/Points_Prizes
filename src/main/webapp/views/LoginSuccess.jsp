@@ -24,76 +24,49 @@
 <body>
 
 <%-- allow access only when session exists --%>
-<%
-    String user = (String) session.getAttribute("user");
-    String userName = null;
-    String sessionID = null;
-    Cookie[] cookies = request.getCookies();
-    if (cookies != null) {
-        for (Cookie cookie : cookies) {
-            if (cookie.getName().equals("user")) userName = cookie.getValue();
-            if (cookie.getName().equals("JSESSIONID")) sessionID = cookie.getValue();
-        }
-    }
-%>
-<h3>Hi <%=userName%>, Login Succesful. Your Session ID = <%=sessionID%>
+
+<c:if test="${cookie.user !=null}">
+    <c:set var="userName" value="${cookie.user.value}"></c:set>
+</c:if>
+<c:if test="${cookie.JSESSIONID !=null}">
+    <c:set var="sessionID" value="${cookie.JSESSIONID.value}"></c:set>
+</c:if>
+
+<h3>Hi ${userName}, Login Succesful. Your Session ID = ${sessionID}
 </h3>
 <br>
-User = <%=user%>
+User = ${userName}
 <br>
 
 
-<%--Model--%>
-<%
-    if (session.getAttribute("allGoals") == null) {
-        session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
-    }
-    /** Pobiera wszystkie puntky użytkownika z tabeli Goals, sumuje je i sprawdza czy się zgadzają z punktami z tabeli User, jeśli nie to je wyrównuje */
-    int allUserPointsFromGoals = GoalsDAO.getAllUserPoints(User.getCurrentUser());
-    //System.out.println(allUserPointsFromGoals);
-    if(User.getCurrentUser().getUser_points() != allUserPointsFromGoals){
-        User currentUser = User.getCurrentUser();
-        currentUser.setUser_points(allUserPointsFromGoals);
-        UserDao.updateInDb(currentUser);
-    }
-%>
-<h1>Liczba Twoich Punktów to <%=allUserPointsFromGoals%>
+<h1>Liczba Twoich Punktów to ${userPoints}
 </h1>
 
 <h2>Lista z wykonanymi zadaniami</h2>
 
-<%-- Model --%>
-<%
-    if (session.getAttribute("allExercises") == null) {
-        //List<Exercise> allExercises = ExerciseDAO.getAllExercises();
-        session.setAttribute("allExercises", ExerciseDAO.getCurrentUserExercises());
-    }
-    List<Exercise> allExercises = (List) session.getAttribute("allExercises");
-%>
-
-<c:forEach var="exercise" items="<%=allExercises%>">
+<c:forEach var="exercise" items="${sessionScope.allExercises}">
     *
     <li>${exercise.getDescription()}</li>
     * </c:forEach>
 
-<p><a href="addExercise.jsp">
+<p><a href="/views/addExercise.jsp">
     <button>Dodaj nowe zadanie</button>
 </a></p>
-<p><a href="showGoals.jsp">
+<p><a href="/views/showGoals.jsp">
     <button>Wyświetl moje cele</button>
 </a></p>
 
-<p><a href="addGoal.jsp">
+<p><a href="/views/addGoal.jsp">
     <button>Dodaj nowy cel</button>
 </a></p>
 
 
 <a href="CheckoutPage.jsp">Checkout Page</a>
 
-<form action="/Dispatch" method="post">
-    <input type="hidden" name="dispatch" value="CheckOutPage">
-    <input type="submit" value="Checkout">
-</form>
+<%--<form action="/Dispatch" method="post">--%>
+<%--<input type="hidden" name="dispatch" value="CheckOutPage">--%>
+<%--<input type="submit" value="Checkout">--%>
+<%--</form>--%>
 
 <form action="/LogoutServlet" method="post">
     <input type="submit" value="Wylogowanie">

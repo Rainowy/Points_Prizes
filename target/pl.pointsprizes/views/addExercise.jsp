@@ -28,10 +28,8 @@
             <%--<label for="job">Cele:</label>--%>
             <select id="job" name="exeGoal">
 
-                <%
-                    List<Goals> allGoals = (List) session.getAttribute("allGoals");
-                %>
-                c:<c:forEach var="goal" items="<%=allGoals%>">
+
+                c:<c:forEach var="goal" items="${sessionScope.allGoals}">
                 <option value=${goal.getId()}>${goal.getName()}</option>
                 <%--<li>${goal.getName()} ${goal.getDescription()} ${goal.getCreated()}--%>
                 <%--</li>--%>

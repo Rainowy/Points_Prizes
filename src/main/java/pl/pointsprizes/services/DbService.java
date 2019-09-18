@@ -19,6 +19,12 @@ public class DbService {
 
     public static Connection getConnection(String dbName) throws SQLException {
 
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+
         initParams(dbName);
 
         return DriverManager.getConnection(dbUrl, dbUser, dbPass);
