@@ -43,9 +43,10 @@ public class LoginServlet extends HttpServlet {
 //            response.sendRedirect("/Dispatch?dispatch=LoginSuccess");  /**Dodatkowy servlet przekierowujący do jsp w WEB-INF w celach bezpieczeństwa */
 
         } else {
-            RequestDispatcher rd = getServletContext().getRequestDispatcher("/views/loginBAKU.html");
+            RequestDispatcher rd = getServletContext().getRequestDispatcher("/views/login.html");
             PrintWriter out = response.getWriter();
-            out.println("<h2><font color=red>Nazwa użytkownika lub hasło niepoprawne</h2>");
+            out.println("<h1 style='text-align:center;' font color=red><font color=black>Nazwa użytkownika lub hasło niepoprawne</h1>");
+            //out.println("<h2><font color=red>Nazwa użytkownika lub hasło niepoprawne</h2>");
             rd.include(request, response);
         }
 

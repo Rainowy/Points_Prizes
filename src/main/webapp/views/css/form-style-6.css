@@ -4,7 +4,7 @@ body, html {
     margin: 0;
     padding: 0;
     display:table;
-    background-image: url("/views/images/sw1.jpg");
+    background-image: url("/views/images/yellowIntro.jpg");
     background-size:cover
 }
 body {

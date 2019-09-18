@@ -20,6 +20,8 @@
 <head>
     <title>Login Success Page</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccess2.css">
+    <script src="/views/script/loginSuccess.js"></script>
 </head>
 <body>
 
@@ -35,41 +37,69 @@
 <h3>Hi ${userName}, Login Succesful. Your Session ID = ${sessionID}
 </h3>
 <br>
-User = ${userName}
+<%--<h1>User = ${userName}</h1>--%>
+<h1 style='text-align:center;' font color=black>Cześć ${userName}</h1>
 <br>
 
 
 <h1>Liczba Twoich Punktów to ${userPoints}
 </h1>
 
-<h2>Lista z wykonanymi zadaniami</h2>
+<h1>Lista z wykonanymi zadaniami</h1>
 
-<c:forEach var="exercise" items="${sessionScope.allExercises}">
-    *
-    <li>${exercise.getDescription()}</li>
-    * </c:forEach>
+<table class="responstable">
 
-<p><a href="/views/addExercise.jsp">
-    <button>Dodaj nowe zadanie</button>
-</a></p>
-<p><a href="/views/showGoals.jsp">
-    <button>Wyświetl moje cele</button>
-</a></p>
+    <thead>
+    <tr>
+        <th>Opis zadania</th>
+        <th>Utworzono</th>
+        <th>Liczba punktów</th>
+    </tr>
+    </thead>
+    <tbody>
 
-<p><a href="/views/addGoal.jsp">
-    <button>Dodaj nowy cel</button>
-</a></p>
+        <c:forEach var="exercise" items="${sessionScope.allExercises}">
+        <tr>
+            <td>${exercise.getDescription()}</td>
+            <td>${exercise.getCreated()}</td>
+            <td>${exercise.getExe_points()}</td>
+        </tr>
+        </c:forEach>
+
+    </tbody>
+</table>
+
+<ul>
+    <li><a href="/views/addExercise.jsp" class="round green">Nowe Zadanie<span class="round">That is, if you already have an account.</span></a></li>
+    <li><a href="/views/showGoals.jsp" class="round red">Cele<span class="round">But only if you really, really want to. </span></a></li>
+    <li><a href="/views/addGoal.jsp" class="round yellow">Nowy Cel<span class="round">Take a look. This product is totally rad!</span></a></li>
+
+</ul>
+<li><form  action="/LogoutServlet" method="post" class="round green">
+    <input type="submit" value="WYLOGUJ" />
+</form></li>
+
+<%--<p><a href="/views/addExercise.jsp">--%>
+    <%--<button>Dodaj nowe zadanie</button>--%>
+<%--</a></p>--%>
+<%--<p><a href="/views/showGoals.jsp">--%>
+    <%--<button>Wyświetl moje cele</button>--%>
+<%--</a></p>--%>
+
+<%--<p><a href="/views/addGoal.jsp">--%>
+    <%--<button>Dodaj nowy cel</button>--%>
+<%--</a></p>--%>
 
 
-<a href="CheckoutPage.jsp">Checkout Page</a>
+<%--<a href="CheckoutPage.jsp">Checkout Page</a>--%>
 
 <%--<form action="/Dispatch" method="post">--%>
 <%--<input type="hidden" name="dispatch" value="CheckOutPage">--%>
 <%--<input type="submit" value="Checkout">--%>
 <%--</form>--%>
 
-<form action="/LogoutServlet" method="post">
-    <input type="submit" value="Wylogowanie">
-</form>
+<%--<form action="/LogoutServlet" method="post">--%>
+    <%--<input type="submit" value="Wylogowanie">--%>
+<%--</form>--%>
 </body>
 </html>

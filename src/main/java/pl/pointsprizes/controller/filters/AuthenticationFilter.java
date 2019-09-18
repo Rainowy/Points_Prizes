@@ -32,17 +32,32 @@ public class AuthenticationFilter implements Filter {
 
         HttpSession session = req.getSession(false);
 
-        if (session == null && !(uri.endsWith("html") || uri.endsWith("LoginServlet"))) {
+//        if (uri.startsWith("/views/login")) {
+//            chain.doFilter(request, response);
+//        }
+        /** dodane endsWith .css i .jpg bo bez tego nie ładowało mi cssa, nie wiedziałem jak to obejść inaczej */
+        if (session == null && !(uri.endsWith("html") || uri.endsWith("LoginServlet") || uri.endsWith(".css") || uri.endsWith(".jpg"))) {
             logger.info("Unauthorized access request");
-            res.sendRedirect("/loginBAKU.html");
-        } else {
+            res.sendRedirect("/views/login.html");
+//        }
+//        else if (session == null && !(uri.endsWith("html") || uri.endsWith("LoginServlet"))) { //|| uri.endsWith("css") || uri.endsWith("jpg"))) {
+//            logger.info("Unauthorized access request");
+//            res.sendRedirect("/views/login.html");
+        }
+
+        else {
             // pass the request along the filter chain
             chain.doFilter(request, response);
         }
 
 
     }
-
+//    String path = ((HttpServletRequest) request).getRequestURI();
+//if (path.startsWith("/specialpath/")) {
+//        chain.doFilter(request, response); // Just continue chain.
+//    } else {
+//        // Do your business stuff here for all paths other than /specialpath.
+//    }
 
     public void destroy() {
         //close any resources here

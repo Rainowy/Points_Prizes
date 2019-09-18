@@ -6,43 +6,31 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" line="34" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" line="38" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2adca42f-c4a0-4efc-a867-bc1d68f0f4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/loginBAKU.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/images/yellowIntro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/script/loginSuccess.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/login.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/css/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -119,12 +107,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
-          <entry key="exercise" value="9" />
+          <entry key="css" value="9" />
+          <entry key="exercise" value="10" />
           <entry key="goals" value="5" />
-          <entry key="html" value="10" />
-          <entry key="java" value="72" />
-          <entry key="jsp" value="39" />
+          <entry key="html" value="11" />
+          <entry key="java" value="77" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="41" />
           <entry key="log" value="2" />
           <entry key="properties" value="1" />
           <entry key="sql" value="6" />
@@ -134,11 +124,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="5" />
-          <entry key="Database Element" value="17" />
-          <entry key="HTML" value="10" />
-          <entry key="JAVA" value="72" />
-          <entry key="JSP" value="39" />
+          <entry key="CSS" value="9" />
+          <entry key="Database Element" value="18" />
+          <entry key="HTML" value="11" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="77" />
+          <entry key="JSP" value="41" />
+          <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
           <entry key="Scratch" value="6" />
@@ -148,87 +140,104 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="40" />
-          <entry key="css" value="189" />
+          <entry key="css" value="234" />
           <entry key="dummy" value="61" />
-          <entry key="html" value="290" />
-          <entry key="java" value="6710" />
-          <entry key="jsp" value="2913" />
+          <entry key="html" value="291" />
+          <entry key="java" value="6955" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="3138" />
           <entry key="log" value="1" />
           <entry key="properties" value="84" />
           <entry key="sql" value="126" />
           <entry key="txt" value="32" />
-          <entry key="xml" value="606" />
+          <entry key="xml" value="607" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="189" />
-          <entry key="HTML" value="290" />
-          <entry key="JAVA" value="6710" />
-          <entry key="JSP" value="2913" />
+          <entry key="CSS" value="234" />
+          <entry key="HTML" value="291" />
+          <entry key="JAVA" value="6955" />
+          <entry key="JSP" value="3138" />
+          <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="94" />
           <entry key="Properties" value="84" />
           <entry key="Scratch" value="166" />
-          <entry key="XML" value="606" />
+          <entry key="XML" value="607" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="14" column="77" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="73" column="66" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/buttons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="1" lean-forward="true" selection-end-line="158" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess2.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1128">
+              <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/script/loginSuccess.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="24" selection-end-column="11" />
+            <state relative-caret-position="858">
+              <caret line="47" column="71" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UserDao.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-440">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="261">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -236,38 +245,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="514">
+              <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/loginBAKU.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1210">
+              <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -280,6 +268,8 @@
         <option value="HTML File" />
         <option value="Class" />
         <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="XSLT Stylesheet" />
         <option value="CSS File" />
       </list>
     </option>
@@ -295,6 +285,7 @@
       <find>createExercise</find>
       <find>createGoal</find>
       <find>date</find>
+      <find>color</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -303,9 +294,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/testFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/TestServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/DispatchToJspServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/CheckoutPage.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
@@ -341,16 +329,22 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/editBook.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/login.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/css/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/loginSuccess.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/script/loginSuccess.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/css/buttons.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess2.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" />
       </list>
     </option>
   </component>
@@ -374,10 +368,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="25" />
-    <option name="width" value="1280" />
-    <option name="height" value="1415" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="127" />
+    <option name="width" value="1211" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -509,6 +503,13 @@
               <item name="pl.pointsprizes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pl.pointsprizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pl.pointsprizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -531,6 +532,23 @@
             <path>
               <item name="pl.pointsprizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="pl.pointsprizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pl.pointsprizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pl.pointsprizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pl.pointsprizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pl.pointsprizes" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -549,8 +567,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568811177304" />
-    <property name="database.console.LAST_STATE" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568828522135" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -561,9 +579,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/views/images" />
       <recent name="$PROJECT_DIR$/src/main/webapp/views" />
       <recent name="$PROJECT_DIR$/src/main/webapp/views/css" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/views/images" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO" />
       <recent name="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services" />
     </key>
@@ -574,6 +592,7 @@
       <recent name="pl.pointsprizes.controller.filters" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/views/script" />
       <recent name="$PROJECT_DIR$/src/main/webapp/views" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
@@ -706,18 +725,18 @@
       <workItem from="1568469842953" duration="50107000" />
       <workItem from="1568621364632" duration="28209000" />
       <workItem from="1568696091427" duration="22516000" />
-      <workItem from="1568793984386" duration="16354000" />
+      <workItem from="1568793984386" duration="31600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206401000" />
+    <option name="totallyTimeSpent" value="221647000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="1415" extended-state="4" />
+    <frame x="0" y="25" width="2560" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4882943" visible="true" weight="0.2552674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4882943" visible="true" weight="0.17303103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -734,7 +753,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32858837" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.32840466" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25726587" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25603113" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.16575876" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32944834" />
@@ -748,7 +767,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.26661265" />
+      <window_info anchor="right" id="Database" order="8" weight="0.26647145" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49012777" weight="0.31604537" />
@@ -792,31 +811,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/CheckoutPage2.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/CheckoutPage.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/CheckoutPage.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/CheckoutPage.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -931,17 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -992,13 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/exercise">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/Dispatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1017,20 +993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
           <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1055,62 +1017,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/loginBAKU.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="14" column="77" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -1128,13 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/DAO/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="745">
@@ -1145,17 +1048,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/images/yellowIntro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="264">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2dc609c-1c76-4a0d-b1ed-5015a79712f2/schema/prize_for_points/table/exercise">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/model/Entity/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="105" column="15" selection-start-line="105" selection-start-column="15" selection-end-line="105" selection-end-column="30" />
+          <folding>
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/script/loginSuccess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="1" lean-forward="true" selection-end-line="158" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1128">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="24" selection-end-column="11" />
+        <state relative-caret-position="858">
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="73" column="66" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
         </state>
       </provider>
     </entry>
