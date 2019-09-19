@@ -43,7 +43,9 @@ public class addGoal extends HttpServlet {
             rd.include(request, response);
 
         } else {
-            GoalsDAO.updateUser_Points_InDb(Integer.valueOf(Exercise.getTemp().getExe_points()),Integer.valueOf(GoalsDAO.getNewGoalId())); /** Dodaje punkty do odpowiedniego celu gdy wraz z zadaniem tworzymy nowy cel */
+            GoalsDAO.updateUser_Points_InDb(Integer.valueOf(Exercise.getTemp().getExe_points()),Integer.valueOf(GoalsDAO.getNewGoalId())); /** Dodaje punkty do odpowiedniego celu gdy wraz z zadaniem tworzymy nowy cel , następnie dodaje do sesji*/
+            session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
+
             String desc = Exercise.getTemp().getDescription();
             String points = String.valueOf(Exercise.getTemp().getExe_points());
             String goalId = String.valueOf(GoalsDAO.getNewGoalId());
@@ -55,7 +57,8 @@ public class addGoal extends HttpServlet {
 
             RequestDispatcher rd = request.getRequestDispatcher("/views/addExercise.jsp");
             PrintWriter out = response.getWriter();
-            out.println("<h2><font color=red>Cel został dodany</h2>");
+//            out.println("<h2><font color=red>Cel został dodany</h2>");
+            out.println("<h1 style='text-align:center;' font color=red><font color=black>Cel został dodany</h1>");
             out.println("<font color=black>");
             rd.include(request, response);
         }

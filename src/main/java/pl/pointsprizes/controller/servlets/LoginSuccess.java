@@ -33,7 +33,7 @@ public class LoginSuccess extends HttpServlet {
             session.setAttribute("allExercises", ExerciseDAO.getCurrentUserExercises());
         }
 
-        request.setAttribute("userPoints",pointsAlignment());
+        request.setAttribute("userPoints",String.valueOf(pointsAlignment()));
         //request.setAttribute("userExercises", session.getAttribute("allExercises"));
         request.getRequestDispatcher("/views/LoginSuccess.jsp").forward(request,response);
     }

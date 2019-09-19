@@ -6,6 +6,7 @@ import pl.pointsprizes.model.DAO.UserDao;
 import pl.pointsprizes.model.Entity.Exercise;
 import pl.pointsprizes.model.Entity.User;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -13,6 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 @WebServlet("/addExercise")
 public class addExercise extends HttpServlet {
@@ -30,6 +32,7 @@ public class addExercise extends HttpServlet {
 
         //tu problem 1
 //        GoalsDAO.updateUser_Points_InDb(Integer.valueOf(exePoints),Integer.valueOf(exeGoal));   /**Dodaje punkty do celu na podstawie ID użytkownika */
+        HttpSession session = request.getSession();
 
         /** Zapisuje do bazy aktualizowane punkty użytkownika i ustawia jako nowy currentUser */
         User currentUser = User.getCurrentUser();
@@ -41,12 +44,20 @@ public class addExercise extends HttpServlet {
 
         if(newGoal == null || newGoal.isEmpty()){
 
-            GoalsDAO.updateUser_Points_InDb(Integer.valueOf(exePoints),Integer.valueOf(exeGoal)); ; /** Dodaje punkty do odpowiedniego celu, gdy cel już istnieje */
+            GoalsDAO.updateUser_Points_InDb(Integer.valueOf(exePoints),Integer.valueOf(exeGoal)); ; /** Dodaje punkty do odpowiedniego celu, gdy cel już istnieje, następnie zapisuje aktualne cele do sesji*/
+            session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
 
             Exercise exercise = ExerciseDAO.createExercise(exeDesc, exePoints, exeGoal);
             ExerciseDAO.save(exercise);
-            HttpSession session = request.getSession();
+
             session.setAttribute("allExercises", ExerciseDAO.getCurrentUserExercises());
+
+            RequestDispatcher rd = request.getRequestDispatcher("/views/addExercise.jsp");
+            PrintWriter out = response.getWriter();
+//            out.println("<h2><font color=red>Cel został dodany</h2>");
+            out.println("<h1 style='text-align:center;' font color=red><font color=black>Cel został dodany</h1>");
+            out.println("<font color=black>");
+            rd.include(request, response);
         }
         else {
 
