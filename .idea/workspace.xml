@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="pl.pointsprizes:war exploded" />
+      <artifact name="pl.pointsprizes:war" />
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
@@ -10,61 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2adca42f-c4a0-4efc-a867-bc1d68f0f4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/formPaul-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/formZosia-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/css/tablePaul-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/images/Borderlands3/Border3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/images/sw2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/AuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/RequestLoggingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/RequestLoggingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LogoutServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/buttons2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/buttons-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/font-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/form-style-6.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/loginForm-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccess2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/tableZosia-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccessButtons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/loginSuccessButtons-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/css/roundCheckbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/css/roundCheckbox-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/editBook.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pointsprizes/services/DbService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/filters/AuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/LogoutServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/controller/servlets/addGoal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/classes/pl/pointsprizes/services/DbService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addExercise.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/addGoal.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/css/addExercise.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/panelAdmin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/panelAdmin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/pl.pointsprizes/views/showGoals.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,6 +35,35 @@
       <set />
     </option>
     <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - prize_for_points@192.168.1.108" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - prize_for_points@192.168.1.108" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - prize_for_points@192.168.1.108" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="prize_for_points: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - prize_for_points@192.168.1.108" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="prize_for_points: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="goals: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - prize_for_points@192.168.1.108" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="prize_for_points: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="Prize na kompie" type="feb32156:DbDataSourceImpl" />
@@ -128,10 +106,10 @@
           <entry key="exercise" value="15" />
           <entry key="goals" value="9" />
           <entry key="html" value="15" />
-          <entry key="java" value="119" />
+          <entry key="java" value="120" />
           <entry key="jpg" value="3" />
           <entry key="js" value="3" />
-          <entry key="jsp" value="80" />
+          <entry key="jsp" value="81" />
           <entry key="log" value="2" />
           <entry key="properties" value="1" />
           <entry key="special" value="1" />
@@ -147,8 +125,8 @@
           <entry key="Database Element" value="30" />
           <entry key="HTML" value="15" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="119" />
-          <entry key="JSP" value="80" />
+          <entry key="JAVA" value="120" />
+          <entry key="JSP" value="81" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="1" />
@@ -162,9 +140,9 @@
           <entry key="css" value="580" />
           <entry key="dummy" value="61" />
           <entry key="html" value="309" />
-          <entry key="java" value="7473" />
+          <entry key="java" value="7535" />
           <entry key="js" value="1" />
-          <entry key="jsp" value="4892" />
+          <entry key="jsp" value="4899" />
           <entry key="log" value="1" />
           <entry key="properties" value="84" />
           <entry key="sql" value="137" />
@@ -176,8 +154,8 @@
         <counts>
           <entry key="CSS" value="580" />
           <entry key="HTML" value="309" />
-          <entry key="JAVA" value="7473" />
-          <entry key="JSP" value="4892" />
+          <entry key="JAVA" value="7535" />
+          <entry key="JSP" value="4899" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="110" />
           <entry key="Properties" value="84" />
@@ -198,11 +176,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+            <state relative-caret-position="487">
+              <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/LoginSuccess.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -211,28 +207,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -272,8 +250,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" />
+            <state relative-caret-position="484">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -346,7 +324,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/css/addExercise.css" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addGoal.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d2dc609c-1c76-4a0d-b1ed-5015a79712f2/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/addExercise.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/filters/RequestLoggingFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/controller/servlets/LoginSuccess.java" />
@@ -364,12 +341,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/header.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/showGoals.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/css/formPaul-style.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/addExercise.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java" />
       </list>
     </option>
   </component>
@@ -587,7 +565,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569066415266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569067623369" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -751,18 +729,17 @@
       <workItem from="1568877409531" duration="7096000" />
       <workItem from="1568884973434" duration="26134000" />
       <workItem from="1568966667507" duration="20335000" />
-      <workItem from="1569043927457" duration="16364000" />
+      <workItem from="1569043927457" duration="17574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292861000" />
+    <option name="totallyTimeSpent" value="294071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="2560" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4882943" visible="true" weight="0.14240254" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4882943" visible="true" weight="0.14240254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -772,15 +749,15 @@
       <window_info id="Web" order="7" sideWeight="0.5117057" side_tool="true" weight="0.12549801" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4984089" weight="0.32840466" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49801114" visible="true" weight="0.36342412" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49761337" visible="true" weight="0.36342412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21712062" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49960223" weight="0.32762647" />
       <window_info anchor="bottom" id="Database Console" order="8" sideWeight="0.49920446" weight="0.32840466" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960223" weight="0.25603113" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019889" side_tool="true" visible="true" weight="0.36342412" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49920446" weight="0.20389105" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5023866" side_tool="true" visible="true" weight="0.36342412" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.16575876" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3291829" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32944834" />
@@ -792,8 +769,8 @@
       <window_info anchor="right" id="Ant Build" order="4" weight="0.24939272" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.6118314" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.32975337" />
+      <window_info anchor="right" id="Database" order="7" weight="0.6117741" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32975337" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49012777" weight="0.31604537" />
@@ -938,13 +915,6 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1106,9 +1076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/LoginSuccess.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/views/panelAdmin.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1120,13 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1144,20 +1104,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/pl.pointsprizes/views/LoginSuccess.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/views/LoginSuccess.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1173,8 +1126,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/views/addGoal.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/LoginSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/formStyleChoice.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fragments/tableStyleChoice.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/pointsprizes/services/DbService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>

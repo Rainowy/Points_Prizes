@@ -5291,3 +5291,27 @@
 13:47:53,432  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
 13:47:54,475  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
 13:47:54,484  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:52:38,915  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:52:38,934  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:52:38,998  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+13:52:39,151  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:52:39,152  INFO AuthenticationFilter:40 - Unauthorized access request
+13:52:39,155  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:52:42,263  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:52:42,276  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:52:42,427  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:52:42,460  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:52:42,622  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:52:46,760  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:52:49,093  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:52:51,101  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:52:51,141  INFO AuthenticationFilter:31 - Requested Resource::/views/css/formPaul-style.css
+13:52:51,141  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+13:52:51,204  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3_circle.jpg
+13:52:58,312  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:53:00,240  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:53:07,814  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+14:02:52,799  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:02:52,801  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:06:52,532  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:06:52,533  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized

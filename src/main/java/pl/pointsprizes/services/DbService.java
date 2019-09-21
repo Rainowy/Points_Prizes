@@ -10,11 +10,15 @@ public class DbService {
 
     private static String dbUrl;
     //private static String dbName = "prize_for_points";
-    private static String dbUser = "root";
-    private static String dbPass = "coderslab";
+//    private static String dbUser = "root"; //testowy
+//    private static String dbPass = "coderslab";
+    private static String dbUser = "prize";
+    private static String dbPass = "sabaka";
 
     public static void initParams(String dbName) {
-        dbUrl = "jdbc:mysql://127.0.0.1:3306/" + dbName + "?useSSL=false&characterEncoding=utf8&useLegacyDatetimeCode=false&serverTimezone=UTC&useOldAliasMetadataBehavior=true";
+//        dbUrl = "jdbc:mysql://127.0.0.1:3306/" + dbName + "?useSSL=false&characterEncoding=utf8&useLegacyDatetimeCode=false&serverTimezone=UTC&useOldAliasMetadataBehavior=true";   //testowa baza
+
+        dbUrl = "jdbc:mysql://192.168.1.108:3307/" + dbName + "?useSSL=false&characterEncoding=utf8&useLegacyDatetimeCode=false&serverTimezone=UTC&useOldAliasMetadataBehavior=true";
     }
 
     public static Connection getConnection(String dbName) throws SQLException {
