@@ -35,10 +35,11 @@ public class addGoal extends HttpServlet {
         session.setAttribute("allGoals", GoalsDAO.getCurrentUserGoals());
 
 
-        if (hidden == null || hidden.isEmpty()) {
+       if (hidden == null || hidden.isEmpty()) {
+//        if (!hidden.equals("tak")) {
             RequestDispatcher rd = request.getRequestDispatcher("/views/addGoal.jsp");
             PrintWriter out = response.getWriter();
-            out.println("<h2><font color=red>Cel został dodany</h2>");
+            out.println("<h1 style='text-align:center;' font color=red><font color=black>Cel został dodany</h1>");
             out.println("<font color=black>");
             rd.include(request, response);
 
@@ -58,7 +59,7 @@ public class addGoal extends HttpServlet {
             RequestDispatcher rd = request.getRequestDispatcher("/views/addExercise.jsp");
             PrintWriter out = response.getWriter();
 //            out.println("<h2><font color=red>Cel został dodany</h2>");
-            out.println("<h1 style='text-align:center;' font color=red><font color=black>Cel został dodany</h1>");
+            out.println("<h1 style='text-align:center;' font color=red><font color=black>Zadanie zostało dodane</h1>");
             out.println("<font color=black>");
             rd.include(request, response);
         }

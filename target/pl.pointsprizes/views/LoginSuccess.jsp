@@ -20,11 +20,39 @@
 <%-- todo dodać nagłówek i stopke --%>
 <html>
 <head>
+
+    <%@ include file="/WEB-INF/views/fragments/tableStyleChoice.jsp"%>
+
+
     <title>Login Success Page</title>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccess2.css">
-    <link rel="stylesheet" type="text/css" href="views/css/loginSuccessButtons.css">
-    <link rel="stylesheet" type="text/css" href="/views/css/font.css">
+    <%--<meta charset="UTF-8">--%>
+
+
+
+    <%--<c:choose>--%>
+        <%--<c:when test="${cookie.user.value.equalsIgnoreCase('Pawełek')}">--%>
+            <%--<link rel="stylesheet" type="text/css" href="/views/css/tablePaul-style.css">--%>
+        <%--</c:when>--%>
+        <%--<c:when test="${cookie.user.value.equalsIgnoreCase('Zosia')}">--%>
+            <%--<link rel="stylesheet" type="text/css" href="/views/css/tableZosia-style.css">--%>
+        <%--</c:when>--%>
+    <%--</c:choose>--%>
+
+    <%--<c:if test="${cookie.user.value.equalsIgnoreCase('Pawełek')}">--%>
+    <%--&lt;%&ndash;<style>&ndash;%&gt;--%>
+    <%--&lt;%&ndash;body {&ndash;%&gt;--%>
+    <%--&lt;%&ndash;background-image: url("/views/images/sw1.jpg");&ndash;%&gt;--%>
+    <%--&lt;%&ndash;background-size:cover&ndash;%&gt;--%>
+    <%--&lt;%&ndash;}&ndash;%&gt;--%>
+    <%--&lt;%&ndash;</style>&ndash;%&gt;--%>
+    <%--<link rel="stylesheet" type="text/css" href="/views/css/tablePaul-style.css">--%>
+    <%--<h1> jest Zosia</h1>--%>
+    <%--</c:if>--%>
+
+
+    <%--<link rel="stylesheet" type="text/css" href="/views/css/tableZosia-style.css">--%>
+    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccessButtons-style.css">
+    <link rel="stylesheet" type="text/css" href="/views/css/font-style.css">
     <%--<script src="/views/script/loginSuccess.js"></script>--%>
 
 
@@ -40,14 +68,18 @@
     <c:set var="sessionID" value="${cookie.JSESSIONID.value}"></c:set>
 </c:if>
 
+<p style="text-align:left;">Points_Prizes_ver._1.0</p>
+
 
 <div class="foo">
     <c:forEach var="i" begin="0" end="${fn:length(sessionScope.user)}" step="1">
-        <span class="letter" data-letter="${fn:substring(sessionScope.user, i, i + 1)}">${fn:substring(sessionScope.user, i, i+1)}</span>
+        <span class="letter"
+              data-letter="${fn:substring(sessionScope.user, i, i + 1)}">${fn:substring(sessionScope.user, i, i+1)}</span>
     </c:forEach>
     <span class="letter" data-letter=":">:</span>
     <c:forEach var="i" begin="0" end="${fn:length(userPoints)}" step="1">
-        <span class="letter" data-letter="${fn:substring(userPoints, i, i + 1)}">${fn:substring(userPoints, i, i + 1)}</span>
+        <span class="letter"
+              data-letter="${fn:substring(userPoints, i, i + 1)}">${fn:substring(userPoints, i, i + 1)}</span>
     </c:forEach>
     <span class="letter" data-letter=" "> </span>
     <span class="letter" data-letter="p">p</span>
@@ -55,59 +87,6 @@
     <span class="letter" data-letter="t">t</span>
     <span class="letter" data-letter=".">.</span>
 </div>
-
-<%--<div class="foo">--%>
-<%--<span class="letter" data-letter="Z">Z</span>--%>
-<%--<span class="letter" data-letter="O">O</span>--%>
-<%--<span class="letter" data-letter="S">S</span>--%>
-<%--<span class="letter" data-letter="I">I</span>--%>
-<%--<span class="letter" data-letter="A">A</span>--%>
-<%--<span class="letter" data-letter=":">:</span>--%>
-<%--<span class="letter" data-letter="5">5</span>--%>
-<%--<span class="letter" data-letter=" "> </span>--%>
-<%--<span class="letter" data-letter="p">p</span>--%>
-<%--<span class="letter" data-letter="k">k</span>--%>
-<%--<span class="letter" data-letter="t">t</span>--%>
-<%--<span class="letter" data-letter=".">.</span>--%>
-
-<%--<span class="letter" data-letter="P">P</span>--%>
-<%--<span class="letter" data-letter="A">A</span>--%>
-<%--<span class="letter" data-letter="U">U</span>--%>
-<%--<span class="letter" data-letter="L">L</span>--%>
-
-<%--<span class="letter" data-letter="A">A</span>--%>
-<%--<span class="letter" data-letter="B">B</span>--%>
-<%--<span class="letter" data-letter="C">C</span>--%>
-<%--<span class="letter" data-letter="D">D</span>--%>
-<%--<span class="letter" data-letter="E">E</span>--%>
-<%--<span class="letter" data-letter="F">F</span>--%>
-<%--<span class="letter" data-letter="G">G</span>--%>
-<%--<span class="letter" data-letter="H">H</span>--%>
-<%--<span class="letter" data-letter="I">I</span>--%>
-<%--<span class="letter" data-letter="L">L</span>--%>
-<%--<span class="letter" data-letter="M">M</span>--%>
-<%--<span class="letter" data-letter="N">N</span>--%>
-<%--<span class="letter" data-letter="O">O</span>--%>
-<%--<span class="letter" data-letter="P">P</span>--%>
-<%--<span class="letter" data-letter="Q">Q</span>--%>
-<%--<span class="letter" data-letter="R">R</span>--%>
-<%--<span class="letter" data-letter="S">S</span>--%>
-<%--<span class="letter" data-letter="T">T</span>--%>
-<%--<span class="letter" data-letter="U">U</span>--%>
-<%--<span class="letter" data-letter="V">V</span>--%>
-<%--<span class="letter" data-letter="Z">Z</span>--%>
-
-
-<%--<h3>Hi ${userName}, Login Succesful. Your Session ID = ${sessionID}--%>
-<%--</h3>--%>
-
-<%--&lt;%&ndash;<h1>User = ${userName}</h1>&ndash;%&gt;--%>
-<%--<h1 style='text-align:center;' font color=black>Cześć ${userName}</h1>--%>
-
-
-<%--<h1>Liczba Twoich Punktów to ${userPoints}</h1>--%>
-
-<%--<h1>Lista z wykonanymi zadaniami</h1>--%>
 
 <table class="responstable">
 
@@ -131,24 +110,6 @@
     </tbody>
 </table>
 
-<%--<ul>--%>
-<%--<li><a href="/views/addExercise.jsp" class="round green">Nowe Zadanie<span class="round">That is, if you already have an account.</span></a></li>--%>
-<%--<li><a href="/views/showGoals.jsp" class="round red">Cele<span class="round">But only if you really, really want to. </span></a></li>--%>
-<%--<li><a href="/views/addGoal.jsp" class="round yellow">Nowy Cel<span class="round">Take a look. This product is totally rad!</span></a></li>--%>
-
-<%--</ul>--%>
-<%--<a href="something" class="button4" style="background-color:#f14e4e">Button 1</a>--%>
-<%--<a href="something" class="button4" style="background-color:#f1bb4e">Button 2</a>--%>
-<%--<a href="something" class="button4" style="background-color:#84f14e">Button 3</a>--%>
-<%--<a href="something" class="button4" style="background-color:#4ef18f">Button 4</a>--%>
-<%--<a href="something" class="button4" style="background-color:#4e9af1">Button 5</a>--%>
-<%--<a href="something" class="button4" style="background-color:#9a4ef1">Button 6</a>--%>
-<%--<a href="something" class="button4" style="background-color:#f14ebd">Button 7</a>--%>
-
-<%--<a href="something" class="button2">Button</a>--%>
-
-
-<%--<button>Dodaj Zadanie</button>--%>
 <a href="/views/addExercise.jsp">
     <button>Dodaj Zadanie</button>
 </a>
@@ -158,36 +119,10 @@
 <a href="/views/showGoals.jsp">
     <button>Moje cele</button>
 </a>
-<%--<button>Dodaj cel</button>--%>
-<%--<button>Moje Cele</button>--%>
-<%--<button >Wyloguj</button>--%>
-
 
 <form action="/LogoutServlet" method="post">
     <button type="submit" name="your_name" value="your_value" class="btn-link">Wyloguj</button>
 </form>
 
-<%--<a href="/views/addExercise.jsp">--%>
-<%--<button>Dodaj zadanie</button>--%>
-<%--</a>--%>
-<%--<p><a href="/views/showGoals.jsp">--%>
-<%--<button>Wyświetl moje cele</button>--%>
-<%--</a></p>--%>
-
-<%--<p><a href="/views/addGoal.jsp">--%>
-<%--<button>Dodaj nowy cel</button>--%>
-<%--</a></p>--%>
-
-
-<%--<a href="CheckoutPage.jsp">Checkout Page</a>--%>
-
-<%--<form action="/Dispatch" method="post">--%>
-<%--<input type="hidden" name="dispatch" value="CheckOutPage">--%>
-<%--<input type="submit" value="Checkout">--%>
-<%--</form>--%>
-
-<%--<form action="/LogoutServlet" method="post">--%>
-<%--<input type="submit" value="Wylogowanie">--%>
-<%--</form>--%>
 </body>
 </html>

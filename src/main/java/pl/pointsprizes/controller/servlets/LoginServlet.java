@@ -17,7 +17,10 @@ public class LoginServlet extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+        // TODO: 21.09.19 porządek z logami zrobić (co ma być zapisywane) 
         // TODO: 19.09.19 zmienić tabelki na responsywne z suwakiem 
+        // TODO: 20.09.19 szyfrowanie hasła
+        // TODO: 21.09.19 usunąć hasło pokazujące się na stronie
 
         response.setContentType("text/html;charset=UTF-8");
 
@@ -33,13 +36,14 @@ public class LoginServlet extends HttpServlet {
 
         } else if (login != null && (login.getPassword().equals(pwd) && login.getName().equals(user))) {
 
-           User.setCurrentUser(login);    /** Model = ustawiam currentUser w User */
+            User.setCurrentUser(login);    /** Model = ustawiam currentUser w User */
 
             setSessionAndCookie(request, response, user);
 
-//            response.sendRedirect("/views/LoginSuccess.jsp"); /** standard według wzoru , bez plików w WEB-INF **/
+
             response.sendRedirect("/LoginSuccess"); /** standard według wzoru , bez plików w WEB-INF **/
 
+//            response.sendRedirect("/views/LoginSuccess.jsp"); /** standard według wzoru , bez plików w WEB-INF **/
 //request.getRequestDispatcher("/WEB-INF/views/LoginSuccess.jsp").include(request,response); /** Przekierowuje do WEB-INF dispatcherem
             // response.sendRedirect("/LoginSuccess.jsp");
 //            response.sendRedirect("/Dispatch?dispatch=LoginSuccess");  /**Dodatkowy servlet przekierowujący do jsp w WEB-INF w celach bezpieczeństwa */
@@ -48,7 +52,7 @@ public class LoginServlet extends HttpServlet {
             RequestDispatcher rd = getServletContext().getRequestDispatcher("/views/login.html");
             PrintWriter out = response.getWriter();
             out.println("<h1 style='text-align:center;' font color=red><font color=black>Nazwa użytkownika lub hasło niepoprawne</h1>");
-            //out.println("<h2><font color=red>Nazwa użytkownika lub hasło niepoprawne</h2>");
+         ;
             rd.include(request, response);
         }
 
@@ -58,9 +62,9 @@ public class LoginServlet extends HttpServlet {
         HttpSession session = request.getSession();
         session.setAttribute("user", user);
         //session expiry in 30 min
-        session.setMaxInactiveInterval(10 * 60);
+        session.setMaxInactiveInterval(30 * 60);
         Cookie userName = new Cookie("user", user);
-        userName.setMaxAge(10 * 60);
+        userName.setMaxAge(30 * 60);
         response.addCookie(userName);
     }
 

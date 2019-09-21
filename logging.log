@@ -3703,3 +3703,1591 @@
 18:56:57,983  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
 18:57:28,504  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
 18:57:28,512  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+23:19:09,220  INFO AuthenticationFilter:31 - Requested Resource::/
+23:19:09,221  INFO AuthenticationFilter:40 - Unauthorized access request
+23:19:09,228  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+23:19:09,247  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+23:19:09,340  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+23:19:15,492  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+23:19:31,399  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+23:19:31,422  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+23:19:31,826  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+23:19:31,828  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+23:19:31,830  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+23:19:31,875  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+23:20:20,505  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+23:20:20,519  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+23:20:26,385  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+23:20:26,405  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:50:45,463  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:50:45,472  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:50:53,914  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:50:53,915  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:51:03,055  INFO AuthenticationFilter:31 - Requested Resource::/
+10:51:03,055  INFO AuthenticationFilter:40 - Unauthorized access request
+10:51:03,061  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:51:03,078  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+10:51:03,174  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+10:51:03,402  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:51:03,402  INFO AuthenticationFilter:40 - Unauthorized access request
+10:51:06,618  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:51:06,837  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:51:07,666  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+10:51:07,670  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+10:51:07,671  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+10:51:07,722  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+10:51:07,860  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+10:51:20,402  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:51:20,490  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+10:51:20,493  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons2.css
+10:51:20,570  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+10:51:24,989  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:51:38,141  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:51:40,611  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:52:46,682  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:52:46,786  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox.css
+10:53:01,490  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:53:05,989  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:53:11,914  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+10:53:15,951  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:53:18,408  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:53:31,547  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:53:51,212  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:53:55,073  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+10:53:59,416  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:54:11,815  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:54:11,828  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:56:46,534  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:56:46,536  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:56:50,678  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:56:50,829  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:56:54,095  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:57:03,391  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:57:29,046  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:58:23,476  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:58:23,477  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:58:28,592  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:58:28,592  INFO AuthenticationFilter:40 - Unauthorized access request
+10:58:28,598  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:58:31,602  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:58:31,782  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:58:35,649  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:58:41,726  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:58:41,740  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:59:30,144  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:59:30,156  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:59:35,238  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:59:35,396  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:59:38,256  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:00:13,957  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:00:13,958  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:00:16,810  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:00:16,810  INFO AuthenticationFilter:40 - Unauthorized access request
+11:00:16,814  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:00:19,420  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:00:19,586  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:00:22,307  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:00:42,097  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:00:42,098  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:01:05,790  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:01:05,790  INFO AuthenticationFilter:40 - Unauthorized access request
+11:01:05,793  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:01:08,255  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:01:08,440  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:01:08,649  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:01:08,673  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:01:11,186  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:01:30,259  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:01:31,980  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:01:39,661  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:01:47,873  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:09:57,559  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:09:57,560  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:10:02,482  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:10:02,482  INFO AuthenticationFilter:40 - Unauthorized access request
+11:10:02,487  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:10:09,579  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:10:09,766  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:10:13,467  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:10:15,636  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:10:17,592  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:10:26,866  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+11:10:31,578  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:10:33,445  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:10:41,261  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:10:53,736  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:10:53,744  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:12:10,320  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:12:10,321  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:12:12,431  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:12:12,583  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:12:15,371  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:12:20,494  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:12:38,000  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:22:39,650  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:22:39,651  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:22:43,823  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:22:43,823  INFO AuthenticationFilter:40 - Unauthorized access request
+11:22:43,827  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:22:46,730  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:22:46,936  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:22:49,943  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:23:06,871  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:23:51,113  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:23:53,649  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:23:59,850  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+11:25:31,465  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:25:31,466  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:25:36,606  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:25:36,606  INFO AuthenticationFilter:40 - Unauthorized access request
+11:25:36,610  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:25:39,918  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:25:40,090  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:25:40,415  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:25:40,441  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:25:45,026  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:25:50,393  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:26:13,050  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:26:33,565  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:26:36,477  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:26:46,560  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+11:28:32,622  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:28:32,624  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:28:34,287  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:28:34,287  INFO AuthenticationFilter:40 - Unauthorized access request
+11:28:34,296  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:28:37,150  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:28:37,306  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:28:46,053  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:29:29,728  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:29:29,730  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:29:30,746  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:29:30,746  INFO AuthenticationFilter:40 - Unauthorized access request
+11:29:30,750  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:29:33,626  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:29:33,799  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:29:37,530  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:31:22,095  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:31:22,097  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:31:27,024  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:31:27,025  INFO AuthenticationFilter:40 - Unauthorized access request
+11:31:27,028  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:31:29,984  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:31:30,141  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:31:33,563  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:33:09,648  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:33:09,649  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:33:20,188  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:33:20,188  INFO AuthenticationFilter:40 - Unauthorized access request
+11:33:23,759  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:33:23,927  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:33:27,899  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:34:12,952  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:34:12,954  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:34:20,651  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:34:20,651  INFO AuthenticationFilter:40 - Unauthorized access request
+11:34:20,655  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:34:23,424  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:34:23,596  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:34:27,112  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:35:11,296  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:35:14,036  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:35:21,539  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:35:21,646  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:35:41,110  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:35:41,112  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:35:44,943  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:35:44,943  INFO AuthenticationFilter:40 - Unauthorized access request
+11:35:48,620  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:35:48,780  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:35:52,179  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:35:54,602  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:35:56,815  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:36:02,824  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:36:02,899  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:37:53,032  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:37:53,033  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:37:55,884  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:37:55,885  INFO AuthenticationFilter:40 - Unauthorized access request
+11:37:59,322  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:37:59,483  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:38:03,991  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:38:13,131  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:38:38,153  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:38:38,154  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:38:40,282  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:38:40,282  INFO AuthenticationFilter:40 - Unauthorized access request
+11:38:42,837  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:38:43,007  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:38:46,603  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:38:51,818  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:43:54,665  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:43:54,667  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:43:59,445  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:43:59,446  INFO AuthenticationFilter:40 - Unauthorized access request
+11:44:02,045  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:44:02,206  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:44:05,773  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:44:11,091  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:46:58,131  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:46:58,132  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:47:02,242  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:47:02,242  INFO AuthenticationFilter:40 - Unauthorized access request
+11:47:02,246  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:47:05,441  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:47:05,610  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:09,254  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:47:14,087  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:47:33,996  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:47:33,998  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:47:41,532  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:47:41,532  INFO AuthenticationFilter:40 - Unauthorized access request
+11:47:41,536  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:47:44,216  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:47:44,383  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:47,245  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:48:31,792  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:48:31,793  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:48:40,802  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:48:40,803  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:48:43,067  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:48:43,067  INFO AuthenticationFilter:40 - Unauthorized access request
+11:48:46,370  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:48:46,548  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:48:50,080  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:48:59,796  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:52:17,484  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:52:17,485  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:52:22,163  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:52:22,163  INFO AuthenticationFilter:40 - Unauthorized access request
+11:52:22,167  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:52:24,948  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:52:25,121  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:52:28,863  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:52:33,529  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:56:23,623  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:56:23,625  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:56:36,461  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:56:36,461  INFO AuthenticationFilter:40 - Unauthorized access request
+11:56:36,466  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:56:38,856  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:56:39,058  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:56:43,179  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:56:47,658  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:57:05,050  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:57:05,097  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:58:46,530  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:58:46,531  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:58:55,311  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:58:55,311  INFO AuthenticationFilter:40 - Unauthorized access request
+11:58:55,319  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:58:58,677  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:58:58,839  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:59:02,500  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:59:07,757  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:13:48,113  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:13:48,114  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:13:49,522  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:13:49,522  INFO AuthenticationFilter:40 - Unauthorized access request
+12:13:49,526  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:13:52,510  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:13:52,669  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:13:57,450  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:14:04,013  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:15:37,040  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:15:37,041  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:15:44,527  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:15:44,527  INFO AuthenticationFilter:40 - Unauthorized access request
+12:15:44,531  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:15:47,626  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:15:47,803  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:15:51,858  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:15:57,256  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:19:42,544  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:19:42,545  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:19:49,391  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:19:49,391  INFO AuthenticationFilter:40 - Unauthorized access request
+12:19:49,395  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:19:52,008  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:19:52,242  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:19:56,594  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:20:01,121  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:21:06,901  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:21:06,902  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:21:08,613  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:21:08,613  INFO AuthenticationFilter:40 - Unauthorized access request
+12:21:08,616  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:21:11,895  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:21:12,113  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:21:20,272  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:21:29,124  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:23:19,468  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:23:19,521  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:25:59,412  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:25:59,413  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:26:01,308  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:26:01,308  INFO AuthenticationFilter:40 - Unauthorized access request
+12:26:01,312  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:26:04,229  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:26:04,392  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:26:10,466  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:26:20,695  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:30:19,705  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:30:19,706  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:30:22,587  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:30:22,587  INFO AuthenticationFilter:40 - Unauthorized access request
+12:30:22,591  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:30:25,179  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:30:25,382  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:29,982  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:30:38,779  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:32:38,315  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:32:38,316  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:32:40,273  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:32:40,273  INFO AuthenticationFilter:40 - Unauthorized access request
+12:32:40,276  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:32:42,779  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:32:43,008  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:32:49,002  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:32:56,302  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:35:11,152  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:35:11,195  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+12:35:11,271  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+12:35:15,075  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:35:27,145  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:36:36,736  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:36:36,737  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:37:08,721  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:37:08,723  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:37:12,815  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:37:12,815  INFO AuthenticationFilter:40 - Unauthorized access request
+12:37:12,819  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:37:15,745  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:37:15,911  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:21,234  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:37:21,303  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+12:37:29,350  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:38:16,902  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:38:16,903  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:38:18,541  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:38:18,541  INFO AuthenticationFilter:40 - Unauthorized access request
+12:38:23,315  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:38:23,477  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:38:24,877  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+12:38:35,472  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:38:45,255  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:39:51,359  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:39:51,360  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:39:58,218  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:39:58,219  INFO AuthenticationFilter:40 - Unauthorized access request
+12:40:00,722  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:40:00,898  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:40:01,120  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:40:01,142  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:40:05,027  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:40:05,100  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons2.css
+12:40:12,520  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+12:40:23,165  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:40:26,243  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+12:40:42,720  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:41:20,617  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+12:41:20,692  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:41:32,097  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+14:10:15,572  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+14:10:15,572  INFO AuthenticationFilter:40 - Unauthorized access request
+14:51:45,988  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+14:51:45,990  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+14:51:52,682  INFO AuthenticationFilter:31 - Requested Resource::/
+14:51:52,683  INFO AuthenticationFilter:40 - Unauthorized access request
+14:51:52,687  INFO AuthenticationFilter:31 - Requested Resource::/pl.pointsprizes/views/login.html
+15:13:03,503  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+15:13:03,504  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+15:13:08,140  INFO AuthenticationFilter:31 - Requested Resource::/
+15:13:08,141  INFO AuthenticationFilter:40 - Unauthorized access request
+15:13:12,036  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+15:13:12,204  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:13:13,494  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+15:13:13,497  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+15:13:13,502  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+15:13:13,546  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+15:13:22,899  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+15:13:29,596  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:13:32,916  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+15:15:07,153  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+15:15:07,155  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+15:15:15,613  INFO AuthenticationFilter:31 - Requested Resource::/
+15:15:15,613  INFO AuthenticationFilter:40 - Unauthorized access request
+15:15:15,632  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+15:15:15,720  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+15:15:20,393  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+15:15:20,565  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:15:22,139  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+15:15:22,139  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+15:15:22,142  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+15:15:22,191  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+15:15:25,742  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+15:15:25,817  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+15:15:25,817  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons2.css
+15:15:28,215  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:15:30,957  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+15:15:31,083  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox.css
+15:15:32,700  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:15:35,506  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+15:15:38,054  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:16:25,869  INFO AuthenticationFilter:31 - Requested Resource::/
+15:21:05,871  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+15:21:05,872  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+15:21:09,132  INFO AuthenticationFilter:31 - Requested Resource::/
+15:21:09,132  INFO AuthenticationFilter:40 - Unauthorized access request
+15:21:09,151  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+15:21:09,217  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+15:21:13,314  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+15:21:13,489  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+15:21:15,086  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+15:21:15,088  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+15:21:15,088  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+15:21:15,177  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+15:34:32,876  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+15:34:32,878  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+15:51:43,374  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+15:51:43,375  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+20:21:59,451  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+20:21:59,453  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+20:22:13,062  INFO AuthenticationFilter:31 - Requested Resource::/
+20:22:13,063  INFO AuthenticationFilter:40 - Unauthorized access request
+20:22:13,069  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+20:22:13,083  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+20:22:13,183  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+20:22:24,121  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+20:22:24,292  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+20:22:25,721  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+20:22:25,723  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+20:22:25,724  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+20:22:25,804  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+20:23:10,712  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+20:23:10,714  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+20:23:18,054  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {your_name=your_value}
+20:23:18,054  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,A52344EBAFA60F10EAE0E9AB453FCB3D}
+20:23:18,054  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+20:23:18,055  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+20:23:18,055  INFO AuthenticationFilter:40 - Unauthorized access request
+20:23:18,059  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,A52344EBAFA60F10EAE0E9AB453FCB3D}
+20:23:18,059  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+20:23:18,059  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+20:23:25,967  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {user=Pawełek}
+20:23:25,967  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {pwd=adunda}
+20:23:25,968  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,A52344EBAFA60F10EAE0E9AB453FCB3D}
+20:23:25,968  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+20:23:25,968  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+20:23:26,158  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+20:23:26,159  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,2935A2960947A40B27D795F7B8330F6A}
+20:23:26,159  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:04:03,734  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:04:03,735  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:04:09,797  INFO AuthenticationFilter:31 - Requested Resource::/
+09:04:09,797  INFO AuthenticationFilter:40 - Unauthorized access request
+09:04:09,802  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:04:09,819  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+09:04:09,909  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+09:04:10,107  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+09:04:10,107  INFO AuthenticationFilter:40 - Unauthorized access request
+09:04:15,045  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {user=Pawełek}
+09:04:15,046  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {pwd=adunda}
+09:04:15,047  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:04:15,297  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,297  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,297  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:04:15,749  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,750  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,750  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+09:04:15,751  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,751  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,751  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+09:04:15,752  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,753  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,753  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+09:04:15,796  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,796  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,796  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+09:04:15,895  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:15,895  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:15,895  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+09:04:31,527  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:31,527  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:31,527  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:04:31,650  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:31,650  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:31,650  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+09:04:31,654  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:31,654  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:31,654  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox.css
+09:04:31,656  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:31,656  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:31,656  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons2.css
+09:04:31,691  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:31,691  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:31,691  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+09:04:48,276  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeDesc=testujemy 2}
+09:04:48,276  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exePoints=3}
+09:04:48,276  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeGoal=1}
+09:04:48,276  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {newGoal=true}
+09:04:48,276  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:48,276  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:48,277  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:04:48,289  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=true}
+09:04:48,290  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:48,290  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:48,290  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:04:57,339  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field1=m óujsufds}
+09:04:57,339  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field5=127.0.0.1127.0.0.1127.0.0.1127.0.0.1127.0.0.1127.0.0.1127.0.0.1127.0.0.1127.0.0.1}
+09:04:57,340  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=true}
+09:04:57,340  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:57,340  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:57,340  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:04:59,134  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:04:59,134  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:04:59,135  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:05:05,132  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:05:05,132  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:05:05,133  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:05:08,391  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:05:08,392  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:05:08,392  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:10:38,789  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:10:38,790  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:10:47,809  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {your_name=your_value}
+09:10:47,810  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:10:47,810  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:10:47,810  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:10:47,810  INFO AuthenticationFilter:40 - Unauthorized access request
+09:10:47,815  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:10:47,815  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:10:47,816  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:10:59,604  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {user=Pawełek}
+09:10:59,604  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {pwd=adunda}
+09:10:59,604  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,44DEB7E739411D6D0C3E93B9193EB2B2}
+09:10:59,604  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:10:59,604  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:10:59,772  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:10:59,773  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:10:59,773  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:11:03,012  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:03,013  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:03,013  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:11:19,185  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeDesc=zmiany1}
+09:11:19,186  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exePoints=2}
+09:11:19,186  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeGoal=1}
+09:11:19,186  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:19,186  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:19,187  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:11:21,271  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:21,271  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:21,272  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:11:31,675  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:31,676  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:31,676  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:11:35,101  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:35,101  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:35,102  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:11:41,713  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:41,714  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:41,714  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:11:49,086  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeDesc=zmiany2}
+09:11:49,087  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exePoints=2}
+09:11:49,087  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeGoal=1}
+09:11:49,087  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:49,087  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:49,087  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:11:53,124  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:53,125  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:53,125  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:11:56,305  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:11:56,305  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:11:56,306  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:12:00,077  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:00,077  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:00,078  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:12:01,764  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:01,764  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:01,764  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:12:11,615  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeDesc=zmiany3}
+09:12:11,616  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exePoints=3}
+09:12:11,616  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeGoal=2}
+09:12:11,616  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {newGoal=true}
+09:12:11,617  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:11,617  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:11,617  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:12:11,635  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=true}
+09:12:11,635  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:11,635  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:11,635  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:12:25,968  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field1=zmiany cel}
+09:12:25,968  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field5=<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/functions"
+           prefix="fn" %>}
+09:12:25,969  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=}
+09:12:25,969  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:25,969  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:25,969  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:12:29,189  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:29,189  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:29,189  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:12:36,897  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:36,897  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:36,897  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:12:49,762  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:49,762  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:49,762  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:12:58,097  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:12:58,097  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:12:58,097  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:13:08,175  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeDesc=zmiany4}
+09:13:08,175  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exePoints=5}
+09:13:08,175  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {exeGoal=3}
+09:13:08,176  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {newGoal=true}
+09:13:08,176  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:08,176  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:08,176  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:13:08,200  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=true}
+09:13:08,201  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:08,201  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:08,201  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:13:19,523  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field1=zmiany5 cel}
+09:13:19,524  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {field5=<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/functions"
+           prefix="fn" %>}
+09:13:19,524  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {fromExercise=}
+09:13:19,524  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:19,524  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:19,525  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:13:20,751  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:20,751  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:20,752  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:13:27,242  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:27,242  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:27,242  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:13:30,280  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:13:30,280  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:13:30,281  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:16:30,255  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:16:30,257  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:16:40,139  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:16:40,141  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:16:43,598  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {your_name=your_value}
+09:16:43,600  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:16:43,600  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:16:43,600  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:16:43,600  INFO AuthenticationFilter:40 - Unauthorized access request
+09:16:43,606  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:16:43,606  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:16:43,606  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:16:50,344  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {user=Pawełek}
+09:16:50,345  INFO RequestLoggingFilter:38 - 0:0:0:0:0:0:0:1::Request Params:: {pwd=adunda}
+09:16:50,345  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:16:50,345  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,891E788E41A0F9A279513973C0151087}
+09:16:50,345  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:16:50,507  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{user,Pawełek}
+09:16:50,508  INFO RequestLoggingFilter:45 - 0:0:0:0:0:0:0:1::Cookie::{JSESSIONID,DF4EEDA7D55A57B16664BB35091D8047}
+09:16:50,508  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:17:14,039  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:17:14,040  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:17:14,500  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:17:14,501  INFO AuthenticationFilter:40 - Unauthorized access request
+09:17:14,508  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:17:17,159  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:17:17,453  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:17:17,552  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:17:17,559  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:17:29,727  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:17:45,352  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:18:51,234  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:18:53,480  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:19:05,401  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:19:05,411  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:22:30,593  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:22:30,594  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:22:33,980  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:22:33,981  INFO AuthenticationFilter:40 - Unauthorized access request
+09:22:33,985  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:22:41,171  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:22:41,334  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:22:43,665  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:22:55,369  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:22:55,391  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:23:09,005  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:23:13,144  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:23:18,139  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:23:20,927  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:25:12,999  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:25:13,000  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:25:26,216  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:25:26,216  INFO AuthenticationFilter:40 - Unauthorized access request
+09:25:26,221  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:25:29,235  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:25:29,402  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:25:32,119  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:25:50,058  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:25:50,077  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:25:58,363  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:26:05,328  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:26:09,925  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:29:13,903  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:29:13,921  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:29:16,707  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:29:16,719  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:39:22,818  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:39:22,823  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:39:25,779  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:39:25,793  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:39:29,654  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:39:38,821  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:39:40,601  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:39:42,404  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:39:45,673  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:39:47,659  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:39:56,879  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:39:58,569  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:40:03,874  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:40:06,488  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:40:08,402  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:40:20,120  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:40:20,140  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:40:26,665  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:40:28,101  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:40:31,564  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:51:53,779  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:51:53,781  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:51:57,734  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:51:57,734  INFO AuthenticationFilter:40 - Unauthorized access request
+09:51:57,743  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:52:00,480  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:52:00,696  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:52:04,435  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:52:26,219  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:52:27,810  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:52:30,080  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:52:32,682  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:52:34,434  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:52:50,712  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:52:52,597  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:52:56,111  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:52:58,399  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:52:59,672  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:53:10,637  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:53:10,657  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:53:17,225  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:53:18,832  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:53:25,103  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:53:27,806  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:56:09,903  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:56:09,905  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:56:20,390  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:56:20,390  INFO AuthenticationFilter:40 - Unauthorized access request
+09:56:20,395  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:56:23,366  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:56:23,529  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:56:25,622  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:56:32,053  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:56:32,071  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:56:39,475  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:56:44,317  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:57:00,084  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:57:00,103  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:57:07,252  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:57:08,430  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:57:13,312  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:57:15,462  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:59:01,916  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+09:59:01,917  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+09:59:05,919  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+09:59:05,919  INFO AuthenticationFilter:40 - Unauthorized access request
+09:59:05,924  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+09:59:08,530  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+09:59:08,699  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:59:11,035  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+09:59:18,215  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+09:59:18,231  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+09:59:24,241  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+09:59:25,437  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+09:59:27,988  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+09:59:30,133  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:00:34,053  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:00:34,054  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:00:40,755  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:00:40,755  INFO AuthenticationFilter:40 - Unauthorized access request
+10:00:40,762  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:00:43,956  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:00:44,122  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:00:46,280  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:00:54,014  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:00:54,024  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:00:59,402  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+10:01:00,815  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:01:05,990  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+10:01:09,778  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:02:03,867  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+10:02:03,868  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+10:02:08,427  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:02:08,427  INFO AuthenticationFilter:40 - Unauthorized access request
+10:02:08,431  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:02:12,635  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:02:12,817  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:02:15,953  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:02:24,867  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:02:24,884  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:02:30,779  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+10:02:32,101  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:02:37,790  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+10:02:42,163  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:51:16,186  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+10:51:16,187  INFO AuthenticationFilter:40 - Unauthorized access request
+10:51:16,193  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+10:51:16,206  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style-6.css
+10:51:16,286  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+10:51:19,501  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+10:51:19,511  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:51:19,634  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccess2.css
+10:51:19,636  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+10:51:19,637  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font.css
+10:51:19,680  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+10:51:21,400  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+10:51:21,425  INFO AuthenticationFilter:31 - Requested Resource::/views/css/addExercise.css
+10:51:21,427  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons2.css
+10:51:21,427  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox.css
+10:51:21,477  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+10:51:32,167  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+10:51:32,186  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+10:51:42,933  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+10:51:44,795  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+10:51:48,390  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:02:13,530  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:04:10,416  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:04:10,418  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:04:13,799  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:04:13,800  INFO AuthenticationFilter:40 - Unauthorized access request
+11:04:13,804  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:04:16,928  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:04:17,100  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:04:20,050  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:04:20,149  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css.css
+11:04:40,142  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:04:40,144  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:04:44,331  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:04:44,331  INFO AuthenticationFilter:40 - Unauthorized access request
+11:04:44,336  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:04:47,326  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:04:47,493  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:04:50,349  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:04:50,512  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:04:53,868  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:04:55,803  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:04:55,898  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css.css
+11:05:09,029  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:05:09,031  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:05:11,297  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:05:11,297  INFO AuthenticationFilter:40 - Unauthorized access request
+11:05:11,303  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:05:14,375  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:05:14,534  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:05:18,441  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:05:18,565  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:05:20,075  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:05:22,178  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:05:26,344  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:05:27,836  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:05:27,875  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:05:30,684  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:05:32,697  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:05:34,771  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:05:34,778  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:06:36,651  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:06:36,652  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:06:38,932  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:06:39,073  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:06:42,463  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:06:46,134  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:06:48,610  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:06:48,714  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:06:49,958  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:06:51,438  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:06:51,601  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:06:53,267  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:16:55,458  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:16:55,460  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:18:29,759  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:18:29,761  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:19:01,474  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:19:01,474  INFO AuthenticationFilter:40 - Unauthorized access request
+11:19:01,480  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:19:04,846  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:19:05,047  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:19:05,531  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:19:10,619  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:19:15,654  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:19:20,543  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:19:20,548  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:30:38,525  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:30:38,527  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:30:44,210  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:30:44,358  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:30:44,839  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:30:44,841  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:30:49,360  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:30:49,442  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:30:49,443  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+11:30:51,033  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:30:51,073  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:30:52,944  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:30:53,027  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+11:30:57,638  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:30:57,679  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:30:59,490  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:31:03,564  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:31:03,601  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:35:04,760  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:35:04,791  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:35:26,062  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:35:26,086  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:41:45,231  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:41:45,232  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:41:48,789  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:41:48,789  INFO AuthenticationFilter:40 - Unauthorized access request
+11:41:48,796  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:41:51,873  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:41:52,029  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:41:52,514  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:41:52,522  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:41:52,522  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:42:02,744  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:42:02,853  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:42:02,856  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+11:42:04,480  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:42:04,510  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:42:04,511  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:42:06,367  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:42:08,220  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:42:08,262  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:42:08,263  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:42:10,109  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:42:12,960  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:42:13,003  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:42:13,006  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:42:15,423  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:42:15,429  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:47:10,046  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:47:10,047  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:47:15,303  INFO AuthenticationFilter:31 - Requested Resource::/
+11:47:15,303  INFO AuthenticationFilter:40 - Unauthorized access request
+11:47:16,553  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:47:16,567  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+11:47:16,615  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+11:47:16,681  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+11:47:16,681  INFO AuthenticationFilter:40 - Unauthorized access request
+11:47:16,683  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:47:21,886  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:47:22,054  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:22,513  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:47:22,513  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:47:22,525  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:47:22,698  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+11:47:24,060  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:24,125  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:47:24,129  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:47:24,133  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:47:24,218  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+11:47:24,401  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+11:47:24,768  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:24,799  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:47:24,802  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:47:24,803  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:47:24,851  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+11:47:24,988  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+11:47:29,305  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:47:29,408  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:47:29,408  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+11:47:30,958  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+11:47:31,005  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+11:47:31,005  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+11:47:31,014  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox.css
+11:47:31,129  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+11:47:31,197  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+11:47:42,271  INFO AuthenticationFilter:31 - Requested Resource::/addExercise
+11:47:42,289  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+11:47:47,934  INFO AuthenticationFilter:31 - Requested Resource::/addGoal
+11:47:50,748  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:47:54,373  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:47:58,057  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:48:02,230  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:48:02,245  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:48:02,271  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+11:50:41,295  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:50:41,297  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:50:48,167  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:50:48,306  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:50:48,800  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:50:48,802  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:50:48,805  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:50:52,623  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+11:50:54,873  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:50:57,184  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:50:57,190  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:50:57,212  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+11:54:30,016  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:54:30,017  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:54:34,559  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:54:34,570  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+11:54:38,130  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:54:38,292  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:54:38,812  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:54:38,813  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:54:38,814  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+11:57:51,644  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:57:51,645  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:57:56,087  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:57:56,089  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:58:06,856  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:58:06,857  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:58:10,789  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:58:10,789  INFO AuthenticationFilter:40 - Unauthorized access request
+11:58:10,797  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:58:10,806  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+11:58:14,206  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:58:14,361  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:58:14,904  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+11:58:14,905  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+11:58:38,385  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+11:58:38,387  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+11:58:42,654  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+11:58:42,654  INFO AuthenticationFilter:40 - Unauthorized access request
+11:58:42,658  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+11:58:45,731  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+11:58:45,891  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+11:58:46,406  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:15:57,889  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:15:57,890  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:16:14,588  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:16:14,768  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:16:36,494  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:16:36,496  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:16:43,299  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:16:43,456  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:16:43,806  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:16:43,809  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:16:43,810  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:21:23,425  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:21:23,427  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:21:29,299  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:21:29,299  INFO AuthenticationFilter:40 - Unauthorized access request
+12:21:29,303  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:21:29,312  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:21:33,541  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:21:33,695  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:21:34,076  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:21:34,077  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:22:43,062  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:22:43,064  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:22:48,982  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:22:48,982  INFO AuthenticationFilter:40 - Unauthorized access request
+12:22:48,987  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:22:54,711  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:22:54,888  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:22:55,236  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:28:23,155  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:28:23,156  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:28:32,056  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:28:32,056  INFO AuthenticationFilter:40 - Unauthorized access request
+12:28:32,060  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:28:32,072  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:28:41,444  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:28:41,608  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:28:41,959  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:28:41,959  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:28:43,466  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:28:43,475  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:28:46,676  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:28:46,694  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:29:00,430  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:29:00,444  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:30:03,997  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:30:03,998  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:30:07,717  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:30:07,867  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:08,344  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:30:14,239  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:14,290  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:30:14,290  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:30:14,292  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:30:14,466  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:30:19,241  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:19,257  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:30:19,258  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:30:19,259  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:30:19,510  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:30:19,875  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:30:19,911  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:30:19,911  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:30:19,912  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:30:20,052  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:34:03,704  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:34:03,705  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:34:07,380  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:34:07,380  INFO AuthenticationFilter:40 - Unauthorized access request
+12:34:07,384  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:34:07,395  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:34:15,087  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:34:15,360  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:15,830  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:17,985  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:18,005  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:18,009  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:34:18,012  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:34:18,300  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:34:18,601  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:18,648  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:18,648  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:34:18,649  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:34:18,793  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:34:19,026  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:19,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:34:19,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:34:19,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:19,208  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:19,254  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:19,264  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:34:19,264  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:34:19,386  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:34:19,388  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:34:19,401  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:34:19,402  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:34:19,403  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:36:49,244  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:36:49,245  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:37:04,374  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:37:04,375  INFO AuthenticationFilter:40 - Unauthorized access request
+12:37:04,383  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:37:07,597  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:37:07,763  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:08,262  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:37:08,297  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw1.jpg
+12:37:12,540  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:12,557  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:37:12,562  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:37:12,563  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:37:12,611  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw1.jpg
+12:37:12,706  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:37:18,176  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:18,223  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:37:18,226  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:37:18,226  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:37:18,298  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw1.jpg
+12:37:18,474  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:37:21,999  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:37:22,007  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:37:26,931  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:37:26,960  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:33,442  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:37:33,455  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:37:33,457  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:37:33,589  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:37:35,277  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:37:35,290  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:41:09,833  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:41:09,834  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:41:18,338  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:41:18,475  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:42:34,932  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:42:34,934  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:42:39,149  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:42:39,275  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:44:37,445  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:44:37,446  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:44:41,382  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:44:41,513  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:46:40,375  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:46:40,401  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:18,560  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:47:18,561  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:47:23,344  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:47:23,474  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:23,964  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:23,966  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:47:23,969  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:27,668  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:47:27,791  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+12:47:27,793  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+12:47:29,564  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:34,209  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:47:34,220  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:47:34,237  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:47:39,140  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:47:39,155  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:39,175  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:41,489  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:41,502  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:41,502  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:41,502  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:41,665  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:42,401  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:42,413  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:42,413  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:42,414  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:42,529  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:44,155  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:44,200  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:44,200  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:44,200  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:44,323  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:44,528  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:44,562  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:44,566  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:44,566  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:44,695  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:44,745  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:44,757  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:44,757  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:44,760  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:44,874  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:45,055  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:45,096  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:45,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:45,097  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:47:45,238  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:47:45,243  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:47:45,255  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:47:45,255  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:47:45,255  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:48:07,151  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:48:07,152  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:48:12,418  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:48:12,549  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:48:14,643  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:48:14,665  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:48:14,666  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:48:14,667  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:48:14,710  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+12:48:14,817  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:48:17,363  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:48:17,376  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:48:20,592  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:48:20,615  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:48:24,736  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:48:24,754  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:48:29,107  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:48:29,134  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:48:29,164  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:48:32,439  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:48:32,445  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:56:04,138  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:56:04,140  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:56:14,277  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:56:14,427  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:56:14,961  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:56:14,961  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+12:56:15,059  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+12:56:31,764  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:56:31,856  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:56:31,858  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+12:56:45,241  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:56:45,253  INFO AuthenticationFilter:31 - Requested Resource::/views/css/table-style.css
+12:56:45,253  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+12:56:45,254  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+12:56:45,329  INFO AuthenticationFilter:31 - Requested Resource::/views/images/greenHouse.jpg
+12:56:45,543  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+12:56:47,749  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:56:47,780  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:56:47,831  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+12:57:01,316  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:57:01,352  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+12:57:06,373  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:57:06,405  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:57:06,454  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+12:57:12,107  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+12:57:12,197  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+12:57:13,862  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:57:13,892  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:57:13,951  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+12:57:17,145  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+12:57:17,180  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+12:57:20,181  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+12:57:20,226  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+12:57:20,280  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+12:57:23,415  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+12:57:23,423  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+12:57:23,440  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+12:59:55,052  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+12:59:55,053  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+12:59:59,785  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+12:59:59,932  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:00,305  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:03,315  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:03,328  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:03,330  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:03,330  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:03,501  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:03,891  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:03,931  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:03,931  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:03,934  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:04,058  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:06,215  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:06,232  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:06,233  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:06,234  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:06,351  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:06,539  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:06,577  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:06,577  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:06,577  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:06,705  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:06,736  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:06,752  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:06,752  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:06,752  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:06,874  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:00:06,917  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:00:06,931  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:00:06,931  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:00:06,932  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:00:07,048  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:01:10,289  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:01:10,291  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:01:11,567  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:01:11,567  INFO AuthenticationFilter:40 - Unauthorized access request
+13:01:11,572  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:15,520  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:01:15,777  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:01:16,149  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:01:20,990  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:01:21,005  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:25,136  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:01:25,157  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:01:25,184  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:01:27,611  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:01:27,623  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:35,593  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:01:35,628  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:01:35,956  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:01:36,075  INFO AuthenticationFilter:31 - Requested Resource::/views/images/sw2.jpg
+13:01:46,189  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:01:46,197  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:01:51,015  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:01:51,029  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:01:51,053  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:01:55,351  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:01:55,360  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:02:00,723  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:02:00,736  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:09:36,201  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:09:36,203  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:09:41,076  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:09:41,076  INFO AuthenticationFilter:40 - Unauthorized access request
+13:09:41,081  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:09:41,093  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:09:45,310  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:09:45,463  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:09:45,957  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:09:45,957  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:09:46,009  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:11:00,864  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:11:01,009  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:11:01,009  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:11:01,010  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:11:01,136  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:11:13,095  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:11:13,110  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:11:13,110  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:11:13,111  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:11:13,198  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:11:13,416  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:11:56,043  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:11:56,045  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:12:00,464  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:00,464  INFO AuthenticationFilter:40 - Unauthorized access request
+13:12:00,467  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:12:00,482  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:12:00,556  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowIntro.jpg
+13:12:00,723  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:12:00,723  INFO AuthenticationFilter:40 - Unauthorized access request
+13:12:04,308  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:12:04,478  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:12:04,980  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:12:05,014  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:12:05,141  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:12:07,216  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:07,334  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:12:10,604  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:10,641  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:12:10,644  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:12:10,645  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:12:10,703  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:12:10,878  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:12:11,508  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:11,577  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:12:11,578  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:12:11,579  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:12:11,668  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:12:11,820  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:12:12,264  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:12,288  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:12:12,288  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:12:12,288  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:12:12,372  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:12:12,563  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:12:15,508  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:12:15,545  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:12:15,545  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:12:15,550  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:12:15,597  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:12:15,772  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:13:06,857  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:13:06,858  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:13:15,619  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:13:15,619  INFO AuthenticationFilter:40 - Unauthorized access request
+13:13:15,623  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:13:19,318  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:13:19,492  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:13:19,988  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:13:20,037  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:13:22,408  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:13:22,519  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons.css
+13:14:45,434  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:14:45,435  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:14:50,544  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:14:50,544  INFO AuthenticationFilter:40 - Unauthorized access request
+13:14:50,551  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:14:53,807  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:14:53,969  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:14:54,517  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:14:54,565  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:14:56,576  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:15:00,048  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:15:00,081  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:15:00,081  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:15:00,084  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:15:00,129  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:15:00,336  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:15:16,810  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:15:16,823  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:22:46,537  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:22:46,559  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:22:46,877  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:22:46,976  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:22:48,839  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:22:48,905  INFO AuthenticationFilter:31 - Requested Resource::/views/css/form-style.css
+13:22:48,905  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+13:22:50,589  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:22:53,690  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:22:53,779  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox-style.css
+13:22:55,307  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:23:01,100  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:23:01,117  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:23:01,143  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:30:46,170  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:30:46,171  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:30:55,290  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:30:55,463  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:30:55,963  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:30:55,963  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:30:55,966  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:30:56,058  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:30:59,971  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:30:59,999  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:31:00,002  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:31:00,003  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:31:00,056  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:31:00,151  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:31:01,219  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:01,238  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:31:01,241  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:31:01,244  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:31:01,294  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:31:01,391  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:31:01,796  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:01,834  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:31:01,835  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:31:01,835  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:31:01,888  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:31:01,977  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:31:02,183  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:02,234  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:31:02,236  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:31:02,239  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:31:02,347  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:31:02,434  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:31:19,719  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:31:21,930  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:31:21,975  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:31:21,977  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:31:21,984  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:31:22,027  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:31:22,125  INFO AuthenticationFilter:31 - Requested Resource::/favicon.ico
+13:31:32,976  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:35,609  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:31:37,354  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:39,169  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:31:40,876  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:31:43,523  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:31:43,531  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:35:20,424  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:35:20,426  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:35:29,114  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:35:29,261  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:35:29,871  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:35:29,963  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:35:35,267  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:35:38,933  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:35:41,014  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:35:41,099  INFO AuthenticationFilter:31 - Requested Resource::/views/css/buttons-style.css
+13:35:41,099  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox-style.css
+13:35:43,439  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:35:45,370  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:35:46,863  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:35:49,129  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:35:49,138  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:35:49,154  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:35:53,902  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:35:53,915  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:35:53,939  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:35:57,455  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:35:58,948  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:36:00,153  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:36:03,495  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:36:07,267  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:36:07,276  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:46:54,799  INFO AuthenticationFilter:20 - AuthenticationFilter initialized
+13:46:54,800  INFO RequestLoggingFilter:53 - RequestLoggingFilter Initialized
+13:47:01,014  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:47:01,161  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:01,651  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tablePaul-style.css
+13:47:01,651  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginSuccessButtons-style.css
+13:47:01,652  INFO AuthenticationFilter:31 - Requested Resource::/views/css/font-style.css
+13:47:01,738  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3.jpg
+13:47:16,990  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:47:19,668  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:21,817  INFO AuthenticationFilter:31 - Requested Resource::/views/addExercise.jsp
+13:47:21,915  INFO AuthenticationFilter:31 - Requested Resource::/views/css/formPaul-style.css
+13:47:21,916  INFO AuthenticationFilter:31 - Requested Resource::/views/css/roundCheckbox-style.css
+13:47:22,014  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3_circle.jpg
+13:47:27,158  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:29,295  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:47:29,367  INFO AuthenticationFilter:31 - Requested Resource::/views/css/formPaul-style.css
+13:47:29,396  INFO AuthenticationFilter:31 - Requested Resource::/views/images/Borderlands3/Border3_circle.jpg
+13:47:32,071  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:34,375  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:47:34,389  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html
+13:47:34,410  INFO AuthenticationFilter:31 - Requested Resource::/views/css/loginForm-style.css
+13:47:42,448  INFO AuthenticationFilter:31 - Requested Resource::/LoginServlet
+13:47:42,471  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:42,495  INFO AuthenticationFilter:31 - Requested Resource::/views/css/tableZosia-style.css
+13:47:45,086  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:47:46,457  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:47,925  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:47:47,959  INFO AuthenticationFilter:31 - Requested Resource::/views/css/formZosia-style.css
+13:47:48,010  INFO AuthenticationFilter:31 - Requested Resource::/views/images/yellowHouses.jpg
+13:47:49,248  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:50,607  INFO AuthenticationFilter:31 - Requested Resource::/views/showGoals.jsp
+13:47:51,513  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:52,135  INFO AuthenticationFilter:31 - Requested Resource::/views/addGoal.jsp
+13:47:53,432  INFO AuthenticationFilter:31 - Requested Resource::/LoginSuccess
+13:47:54,475  INFO AuthenticationFilter:31 - Requested Resource::/LogoutServlet
+13:47:54,484  INFO AuthenticationFilter:31 - Requested Resource::/views/login.html

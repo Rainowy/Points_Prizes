@@ -30,7 +30,7 @@ public class AuthenticationFilter implements Filter {
         String uri = req.getRequestURI();
         logger.info("Requested Resource::" + uri);
 
-        HttpSession session = req.getSession(false);
+        HttpSession session = req.getSession(false);    //pobiera sesje, jeśli nie ma to nie tworzy nowej
 
 //        if (uri.startsWith("/views/login")) {
 //            chain.doFilter(request, response);
@@ -39,13 +39,8 @@ public class AuthenticationFilter implements Filter {
         if (session == null && !(uri.endsWith("html") || uri.endsWith("LoginServlet") || uri.endsWith(".css") || uri.endsWith(".jpg"))) {
             logger.info("Unauthorized access request");
             res.sendRedirect("/views/login.html");
-//        }
-//        else if (session == null && !(uri.endsWith("html") || uri.endsWith("LoginServlet"))) { //|| uri.endsWith("css") || uri.endsWith("jpg"))) {
-//            logger.info("Unauthorized access request");
-//            res.sendRedirect("/views/login.html");
-        }
 
-        else {
+        } else {
             // pass the request along the filter chain
             chain.doFilter(request, response);
         }

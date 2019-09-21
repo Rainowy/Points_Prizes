@@ -11,5 +11,15 @@
       <user-name>prize</user-name>
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
+    <data-source name="Prize na kompie" uuid="75a7fdae-5e27-4923-8928-0995b0b41514">
+      <database-info product="MySQL" version="5.7.27-0ubuntu0.18.04.1" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.4.1" family="MYSQL" exact-version="5.7.27">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
   </component>
 </project>

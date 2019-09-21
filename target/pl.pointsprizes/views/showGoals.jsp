@@ -11,10 +11,22 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+
+
+    <%--<c:choose>--%>
+        <%--<c:when test="${cookie.user.value.equalsIgnoreCase('Pawełek')}">--%>
+            <%--<link rel="stylesheet" type="text/css" href="/views/css/tablePaul-style.css">--%>
+        <%--</c:when>--%>
+        <%--<c:when test="${cookie.user.value.equalsIgnoreCase('Zosia')}">--%>
+            <%--<link rel="stylesheet" type="text/css" href="/views/css/tableZosia-style.css">--%>
+        <%--</c:when>--%>
+    <%--</c:choose>--%>
+        <%@ include file="/WEB-INF/views/fragments/tableStyleChoice.jsp"%>
+
     <title>show_goals</title>
-    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccess2.css">
-    <link rel="stylesheet" type="text/css" href="/views/css/font.css">
-    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccessButtons.css">
+    <%--<link rel="stylesheet" type="text/css" href="/views/css/tableZosia-style.css">--%>
+    <link rel="stylesheet" type="text/css" href="/views/css/font-style.css">
+    <link rel="stylesheet" type="text/css" href="/views/css/loginSuccessButtons-style.css">
 </head>
 <body>
 <%--<h2>Lista Twoich celów</h2>--%>
@@ -42,6 +54,7 @@
 <span class="letter" data-letter="E">E</span>
 <span class="letter" data-letter="L">L</span>
 <span class="letter" data-letter="E">E</span>
+
 <table class="responstable">
 
     <thead>

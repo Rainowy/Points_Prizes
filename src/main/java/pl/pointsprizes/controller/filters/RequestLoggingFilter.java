@@ -35,14 +35,14 @@ public class RequestLoggingFilter implements Filter {
         while (params.hasMoreElements()) {
             String name = params.nextElement();
             String value = req.getParameter(name);
-            //logger.info(req.getRemoteAddr() + "::Request Params:: {" + name + "=" + value + "}");
+//            logger.info(req.getRemoteAddr() + "::Request Params:: {" + name + "=" + value + "}");
 ////            this.context.log(req.getRemoteAddr() + "::Request Params:: {" + name + "=" + value + "}");
         }
 
         Cookie[] cookies = request.getCookies();
         if (cookies != null) {
             for (Cookie cookie : cookies) {
-                //logger.info(req.getRemoteAddr() + "::Cookie::{" + cookie.getName() + "," + cookie.getValue() + "}");
+//                logger.info(req.getRemoteAddr() + "::Cookie::{" + cookie.getName() + "," + cookie.getValue() + "}");
             }
         }
         chain.doFilter(req, resp);

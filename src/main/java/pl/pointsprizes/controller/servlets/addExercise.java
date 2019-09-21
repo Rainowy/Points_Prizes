@@ -30,6 +30,7 @@ public class addExercise extends HttpServlet {
 
         String newGoal = request.getParameter("newGoal");
 
+        System.out.println("NOWY GOL " + newGoal);
         //tu problem 1
 //        GoalsDAO.updateUser_Points_InDb(Integer.valueOf(exePoints),Integer.valueOf(exeGoal));   /**Dodaje punkty do celu na podstawie ID użytkownika */
         HttpSession session = request.getSession();
